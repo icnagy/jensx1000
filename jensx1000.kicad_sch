@@ -257,6 +257,16 @@
 	)
 	(wire
 		(pts
+			(xy 104.14 73.66) (xy 116.84 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bdc6958-954a-4193-b5c0-802f508c7de3")
+	)
+	(wire
+		(pts
 			(xy 104.14 100.33) (xy 134.62 100.33)
 		)
 		(stroke
@@ -454,16 +464,6 @@
 			(type default)
 		)
 		(uuid "4eeb5cc6-d5f6-41c8-97e1-6af58bde64b0")
-	)
-	(wire
-		(pts
-			(xy 102.87 73.66) (xy 116.84 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "51696530-4618-44cb-89c8-17c1c91e6c41")
 	)
 	(wire
 		(pts
@@ -1557,6 +1557,48 @@
 			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944"
 					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 71.12 146.05)
+		(size 33.02 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "53fd3068-c5f7-4c98-83e9-40af01ac41f9")
+		(property "Sheetname" "Keyboard"
+			(at 71.12 145.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "keyboard.kicad_sch"
+			(at 71.12 164.4146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "jensx1000"
+				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944"
+					(page "10")
 				)
 			)
 		)

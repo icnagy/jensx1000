@@ -229,14 +229,14 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",
       "simulation_model_issue": "ignore",
-      "single_global_label": "ignore",
+      "single_global_label": "warning",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
       "undefined_netclass": "error",
@@ -444,6 +444,10 @@
     [
       "1344f66f-6407-4646-8bea-5b0b6513c6de",
       "VCO"
+    ],
+    [
+      "53fd3068-c5f7-4c98-83e9-40af01ac41f9",
+      "Keyboard"
     ]
   ],
   "text_variables": {}
