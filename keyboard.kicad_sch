@@ -3401,7 +3401,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 133.35) (xy 29.21 128.27)
+			(xy 29.21 132.08) (xy 29.21 128.27)
 		)
 		(stroke
 			(width 0)
@@ -4851,7 +4851,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 140.97) (xy 29.21 143.51)
+			(xy 29.21 139.7) (xy 29.21 143.51)
 		)
 		(stroke
 			(width 0)
@@ -5161,7 +5161,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 137.16) (xy 22.86 137.16)
+			(xy 25.4 135.89) (xy 22.86 135.89)
 		)
 		(stroke
 			(width 0)
@@ -5341,7 +5341,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 137.16) (xy 22.86 143.51)
+			(xy 22.86 135.89) (xy 22.86 143.51)
 		)
 		(stroke
 			(width 0)
@@ -10934,7 +10934,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer_Trim")
-		(at 29.21 137.16 0)
+		(at 29.21 135.89 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10944,7 +10944,7 @@
 		(fields_autoplaced yes)
 		(uuid "acd80229-c2ed-4bc1-aad3-5e847c18a529")
 		(property "Reference" "RV23"
-			(at 31.75 135.8899 0)
+			(at 31.75 134.6199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10953,7 +10953,7 @@
 			)
 		)
 		(property "Value" "22K"
-			(at 31.75 138.4299 0)
+			(at 31.75 137.1599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10962,7 +10962,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 29.21 137.16 0)
+			(at 29.21 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10971,7 +10971,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 29.21 137.16 0)
+			(at 29.21 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10980,7 +10980,7 @@
 			)
 		)
 		(property "Description" "Trim-potentiometer"
-			(at 29.21 137.16 0)
+			(at 29.21 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11929,21 +11929,21 @@
 		(fields_autoplaced yes)
 		(uuid "d1741696-63da-417d-96a1-63b21a46acca")
 		(property "Reference" "C28"
-			(at 45.72 133.7309 0)
+			(at 53.34 133.7309 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "22uF"
-			(at 45.72 136.2709 0)
+		(property "Value" "4.7uF"
+			(at 53.34 136.2709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
