@@ -3178,7 +3178,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 158.4452 132.08 0)
 			(effects
 				(font
@@ -3465,7 +3465,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 158.4452 99.06 0)
 			(effects
 				(font
@@ -3592,7 +3592,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1Uf"
 			(at 104.14 129.5399 0)
 			(effects
 				(font
@@ -3601,7 +3601,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 101.2952 132.08 0)
 			(effects
 				(font
@@ -3735,7 +3735,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_THT:TO-220F-3_Vertical"
 			(at 147.955 127 0)
 			(effects
 				(font
@@ -3874,7 +3874,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_THT:TO-220F-3_Vertical"
 			(at 147.955 92.71 0)
 			(effects
 				(font
@@ -4231,7 +4231,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 33.02 78.74 0)
 			(effects
 				(font
@@ -4500,7 +4500,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuseholder_Clip-5x20mm_Keystone_3512_Inline_P23.62x7.27mm_D1.02x1.57mm_Horizontal"
 			(at 63.5 77.978 90)
 			(effects
 				(font
@@ -4836,7 +4836,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a474f779-165f-4658-adcf-0f98a521a0d4")
-		(property "Reference" "C4"
+		(property "Reference" "CP4"
 			(at 67.31 127.8889 0)
 			(effects
 				(font
@@ -4854,7 +4854,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D13.0mm_P5.00mm"
 			(at 70.1548 124.46 0)
 			(effects
 				(font
@@ -4890,7 +4890,7 @@
 		(instances
 			(project ""
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/81196ff1-72f4-4837-a9ee-dcf6bf8406d5"
-					(reference "C4")
+					(reference "CP4")
 					(unit 1)
 				)
 			)
@@ -4922,7 +4922,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuseholder_Clip-5x20mm_Keystone_3512_Inline_P23.62x7.27mm_D1.02x1.57mm_Horizontal"
 			(at 63.5 99.568 90)
 			(effects
 				(font
@@ -4993,7 +4993,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 45.72 156.21 0)
 			(effects
 				(font
@@ -5123,7 +5123,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2fdc7ca-925c-4cf7-842a-f71f292955c8")
-		(property "Reference" "C5"
+		(property "Reference" "CP5"
 			(at 114.3 98.6789 0)
 			(effects
 				(font
@@ -5141,7 +5141,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D13.0mm_P5.00mm"
 			(at 117.1448 95.25 0)
 			(effects
 				(font
@@ -5177,7 +5177,7 @@
 		(instances
 			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/81196ff1-72f4-4837-a9ee-dcf6bf8406d5"
-					(reference "C5")
+					(reference "CP5")
 					(unit 1)
 				)
 			)
@@ -5493,7 +5493,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_THT:TO-220F-3_Vertical"
 			(at 90.17 118.11 0)
 			(effects
 				(font

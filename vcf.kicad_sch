@@ -5250,7 +5250,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 144.018 127 90)
 			(effects
 				(font
@@ -5318,7 +5318,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W10.16mm_LongPads"
 			(at 68.58 55.245 0)
 			(effects
 				(font
@@ -5428,7 +5428,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 72.39 68.072 90)
 			(effects
 				(font
@@ -5498,7 +5498,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 180.0352 82.55 0)
 			(effects
 				(font
@@ -5566,7 +5566,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W10.16mm_LongPads"
 			(at 162.56 56.515 0)
 			(effects
 				(font
@@ -5744,7 +5744,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 149.352 78.74 90)
 			(effects
 				(font
@@ -5814,7 +5814,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 102.362 78.74 90)
 			(effects
 				(font
@@ -5948,7 +5948,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 152.4 155.448 90)
 			(effects
 				(font
@@ -6018,7 +6018,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 32.512 78.74 90)
 			(effects
 				(font
@@ -6088,7 +6088,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W10.16mm_LongPads"
 			(at 30.48 175.895 0)
 			(effects
 				(font
@@ -6182,7 +6182,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27039ef9-d924-4574-95b9-499b9a4bd6b8")
-		(property "Reference" "RV14"
+		(property "Reference" "RT14"
 			(at 204.47 143.5099 0)
 			(effects
 				(font
@@ -6200,7 +6200,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3339P_Vertical_HandSoldering"
 			(at 207.01 144.78 0)
 			(effects
 				(font
@@ -6239,7 +6239,7 @@
 		(instances
 			(project ""
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/d9898a3a-269c-4039-8ec7-38b9f7f4aab4"
-					(reference "RV14")
+					(reference "RT14")
 					(unit 1)
 				)
 			)
@@ -6339,7 +6339,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W10.16mm_LongPads"
 			(at 16.51 175.895 0)
 			(effects
 				(font
@@ -6449,7 +6449,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_LongPads"
 			(at 255.27 142.24 0)
 			(effects
 				(font
@@ -6573,7 +6573,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 92.202 78.74 90)
 			(effects
 				(font
@@ -6775,7 +6775,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 191.262 116.84 90)
 			(effects
 				(font
@@ -6843,7 +6843,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W10.16mm_LongPads"
 			(at 43.18 56.515 0)
 			(effects
 				(font
@@ -6955,7 +6955,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 38.862 78.74 90)
 			(effects
 				(font
@@ -7025,7 +7025,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Omeg_PC16BU_Vertical"
 			(at 228.6 139.7 0)
 			(effects
 				(font
@@ -7096,7 +7096,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W10.16mm_LongPads"
 			(at 219.71 56.515 0)
 			(effects
 				(font
@@ -7272,7 +7272,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W10.16mm_LongPads"
 			(at 180.34 55.245 0)
 			(effects
 				(font
@@ -7432,7 +7432,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "537c8434-5642-417b-9aa0-66b612c6c353")
-		(property "Reference" "C19"
+		(property "Reference" "CP19"
 			(at 28.321 45.72 90)
 			(effects
 				(font
@@ -7448,7 +7448,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.80mm"
 			(at 33.02 52.3748 0)
 			(effects
 				(font
@@ -7484,7 +7484,7 @@
 		(instances
 			(project ""
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/d9898a3a-269c-4039-8ec7-38b9f7f4aab4"
-					(reference "C19")
+					(reference "CP19")
 					(unit 1)
 				)
 			)
@@ -7623,7 +7623,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Potentiometer")
+		(lib_id "Device:R_Potentiometer_Trim")
 		(at 104.14 168.91 0)
 		(mirror x)
 		(unit 1)
@@ -7632,7 +7632,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5731927d-baf3-458b-a344-40196511f91f")
-		(property "Reference" "RV18"
+		(property "Reference" "RT18"
 			(at 101.6 170.1801 0)
 			(effects
 				(font
@@ -7650,7 +7650,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3339P_Vertical_HandSoldering"
 			(at 104.14 168.91 0)
 			(effects
 				(font
@@ -7668,7 +7668,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Potentiometer"
+		(property "Description" "Trim-potentiometer"
 			(at 104.14 168.91 0)
 			(effects
 				(font
@@ -7689,7 +7689,7 @@
 		(instances
 			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/d9898a3a-269c-4039-8ec7-38b9f7f4aab4"
-					(reference "RV18")
+					(reference "RT18")
 					(unit 1)
 				)
 			)
@@ -7721,7 +7721,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_LongPads"
 			(at 161.29 113.03 0)
 			(effects
 				(font
@@ -7843,7 +7843,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 114.3 170.688 90)
 			(effects
 				(font
@@ -7913,7 +7913,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 243.332 151.13 90)
 			(effects
 				(font
@@ -8049,7 +8049,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 237.1852 82.55 0)
 			(effects
 				(font
@@ -8117,7 +8117,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 160.02 104.648 90)
 			(effects
 				(font
@@ -8252,7 +8252,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_LongPads"
 			(at 52.07 176.53 0)
 			(effects
 				(font
@@ -8376,7 +8376,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 248.412 78.74 90)
 			(effects
 				(font
@@ -8444,7 +8444,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W10.16mm_LongPads"
 			(at 123.19 55.245 0)
 			(effects
 				(font
@@ -8622,7 +8622,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 206.502 78.74 90)
 			(effects
 				(font
@@ -8692,7 +8692,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 78.232 78.74 90)
 			(effects
 				(font
@@ -8759,7 +8759,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 146.05 55.118 90)
 			(effects
 				(font
@@ -9025,7 +9025,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 104.14 130.048 90)
 			(effects
 				(font
@@ -9093,7 +9093,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 185.42 68.072 90)
 			(effects
 				(font
@@ -9227,7 +9227,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 128.27 69.342 90)
 			(effects
 				(font
@@ -9295,7 +9295,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 270.51 144.018 90)
 			(effects
 				(font
@@ -9363,7 +9363,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 181.61 104.648 90)
 			(effects
 				(font
@@ -9431,7 +9431,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W10.16mm_LongPads"
 			(at 105.41 56.515 0)
 			(effects
 				(font
@@ -9607,7 +9607,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 242.57 66.802 90)
 			(effects
 				(font
@@ -9675,7 +9675,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 254 128.778 90)
 			(effects
 				(font
@@ -9811,7 +9811,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 216.662 78.74 90)
 			(effects
 				(font
@@ -9945,7 +9945,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 114.3 109.728 90)
 			(effects
 				(font
@@ -10089,7 +10089,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 64.4652 82.55 0)
 			(effects
 				(font
@@ -10159,7 +10159,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 152.908 127 90)
 			(effects
 				(font
@@ -10293,7 +10293,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W10.16mm_LongPads"
 			(at 237.49 55.245 0)
 			(effects
 				(font
@@ -10471,7 +10471,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Omeg_PC16BU_Vertical"
 			(at 104.14 107.95 0)
 			(effects
 				(font
@@ -10608,7 +10608,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 114.3 144.018 90)
 			(effects
 				(font
@@ -10942,7 +10942,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Omeg_PC16BU_Vertical"
 			(at 104.14 142.24 0)
 			(effects
 				(font
@@ -11078,7 +11078,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 203.2 55.118 90)
 			(effects
 				(font
@@ -11146,7 +11146,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 238.76 141.478 90)
 			(effects
 				(font
@@ -11216,7 +11216,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 159.512 78.74 90)
 			(effects
 				(font
@@ -11286,7 +11286,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 134.112 78.74 90)
 			(effects
 				(font
@@ -11356,7 +11356,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 122.8852 82.55 0)
 			(effects
 				(font
@@ -11426,7 +11426,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 191.262 78.74 90)
 			(effects
 				(font
@@ -11562,7 +11562,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Omeg_PC16BU_Vertical"
 			(at 162.56 153.67 0)
 			(effects
 				(font
@@ -11698,7 +11698,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 88.9 55.118 90)
 			(effects
 				(font
@@ -11769,7 +11769,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x11_P2.54mm_Vertical"
 			(at 38.1 129.54 0)
 			(effects
 				(font

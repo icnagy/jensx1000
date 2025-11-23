@@ -6290,7 +6290,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 246.38 109.22 0)
 			(effects
 				(font
@@ -6623,7 +6623,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 47.752 156.21 90)
 			(effects
 				(font
@@ -6781,7 +6781,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 130.302 20.32 90)
 			(effects
 				(font
@@ -6851,7 +6851,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 233.68 71.12 0)
 			(effects
 				(font
@@ -7252,7 +7252,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 220.98 109.22 0)
 			(effects
 				(font
@@ -7465,7 +7465,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "M110"
 			(at 99.06 133.35 0)
 			(effects
 				(font
@@ -7473,7 +7473,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-40_W15.24mm_LongPads"
 			(at 81.28 186.69 0)
 			(effects
 				(font
@@ -7657,7 +7657,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 259.08 71.12 0)
 			(effects
 				(font
@@ -7727,7 +7727,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 259.08 109.22 0)
 			(effects
 				(font
@@ -7797,7 +7797,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 195.58 109.22 0)
 			(effects
 				(font
@@ -7955,7 +7955,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 170.18 109.22 0)
 			(effects
 				(font
@@ -8111,7 +8111,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical"
 			(at 22.86 36.83 0)
 			(effects
 				(font
@@ -8299,7 +8299,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 270.002 134.62 90)
 			(effects
 				(font
@@ -8633,7 +8633,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 130.302 58.42 90)
 			(effects
 				(font
@@ -8791,7 +8791,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 130.302 96.52 90)
 			(effects
 				(font
@@ -8907,7 +8907,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6b8dea51-0879-497d-9cf1-85d4b0d52424")
 		(property "Reference" "SW14"
 			(at 273.05 31.7499 90)
@@ -8927,7 +8926,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 271.78 33.02 0)
 			(effects
 				(font
@@ -9085,7 +9084,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 233.68 109.22 0)
 			(effects
 				(font
@@ -9419,7 +9418,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 271.78 147.32 0)
 			(effects
 				(font
@@ -9577,7 +9576,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 182.88 109.22 0)
 			(effects
 				(font
@@ -9736,7 +9735,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 30.988 148.59 90)
 			(effects
 				(font
@@ -9806,7 +9805,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 144.78 33.02 0)
 			(effects
 				(font
@@ -9876,7 +9875,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 259.08 33.02 0)
 			(effects
 				(font
@@ -9946,7 +9945,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 195.58 33.02 0)
 			(effects
 				(font
@@ -10368,7 +10367,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 246.38 33.02 0)
 			(effects
 				(font
@@ -10438,7 +10437,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 132.08 71.12 0)
 			(effects
 				(font
@@ -10508,7 +10507,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 182.88 33.02 0)
 			(effects
 				(font
@@ -10578,7 +10577,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 208.28 109.22 0)
 			(effects
 				(font
@@ -10890,7 +10889,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 170.18 33.02 0)
 			(effects
 				(font
@@ -10943,7 +10942,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "acd80229-c2ed-4bc1-aad3-5e847c18a529")
-		(property "Reference" "RV23"
+		(property "Reference" "RT23"
 			(at 31.75 134.6199 0)
 			(effects
 				(font
@@ -10961,7 +10960,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3339P_Vertical_HandSoldering"
 			(at 29.21 135.89 0)
 			(effects
 				(font
@@ -11000,7 +10999,7 @@
 		(instances
 			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/53fd3068-c5f7-4c98-83e9-40af01ac41f9"
-					(reference "RV23")
+					(reference "RT23")
 					(unit 1)
 				)
 			)
@@ -11122,7 +11121,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 157.48 109.22 0)
 			(effects
 				(font
@@ -11192,7 +11191,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 208.28 71.12 0)
 			(effects
 				(font
@@ -11262,7 +11261,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 271.78 109.22 0)
 			(effects
 				(font
@@ -11420,7 +11419,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 208.28 33.02 0)
 			(effects
 				(font
@@ -11578,7 +11577,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 157.48 33.02 0)
 			(effects
 				(font
@@ -11647,7 +11646,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 23.8252 152.4 0)
 			(effects
 				(font
@@ -11717,7 +11716,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 132.08 109.22 0)
 			(effects
 				(font
@@ -11875,7 +11874,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 144.78 71.12 0)
 			(effects
 				(font
@@ -11928,7 +11927,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d1741696-63da-417d-96a1-63b21a46acca")
-		(property "Reference" "C28"
+		(property "Reference" "CP28"
 			(at 53.34 133.7309 0)
 			(effects
 				(font
@@ -11946,7 +11945,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.80mm"
 			(at 48.5648 139.7 0)
 			(effects
 				(font
@@ -11982,7 +11981,7 @@
 		(instances
 			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/53fd3068-c5f7-4c98-83e9-40af01ac41f9"
-					(reference "C28")
+					(reference "CP28")
 					(unit 1)
 				)
 			)
@@ -12082,7 +12081,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 132.08 33.02 0)
 			(effects
 				(font
@@ -12152,7 +12151,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 170.18 71.12 0)
 			(effects
 				(font
@@ -12222,7 +12221,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 246.38 71.12 0)
 			(effects
 				(font
@@ -12358,7 +12357,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 195.58 71.12 0)
 			(effects
 				(font
@@ -12428,7 +12427,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 71.882 120.65 90)
 			(effects
 				(font
@@ -12719,7 +12718,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 220.98 33.02 0)
 			(effects
 				(font
@@ -12877,7 +12876,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 157.48 71.12 0)
 			(effects
 				(font
@@ -12947,7 +12946,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 233.68 33.02 0)
 			(effects
 				(font
@@ -13193,7 +13192,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 182.88 71.12 0)
 			(effects
 				(font
@@ -13263,7 +13262,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 271.78 71.12 0)
 			(effects
 				(font
@@ -13421,7 +13420,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 144.78 109.22 0)
 			(effects
 				(font
@@ -13491,7 +13490,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 220.98 71.12 0)
 			(effects
 				(font

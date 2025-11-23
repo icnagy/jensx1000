@@ -215,7 +215,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector:Conn_01x04_Pin"
+		(symbol "Connector:Conn_01x05_Pin"
 			(pin_names
 				(offset 1.016)
 				(hide yes)
@@ -224,14 +224,14 @@
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "J"
-				(at 0 5.08 0)
+				(at 0 7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" "Conn_01x04_Pin"
+			(property "Value" "Conn_01x05_Pin"
 				(at 0 -7.62 0)
 				(effects
 					(font
@@ -257,7 +257,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Generic connector, single row, 01x04, script generated"
+			(property "Description" "Generic connector, single row, 01x05, script generated"
 				(at 0 0 0)
 				(effects
 					(font
@@ -292,7 +292,18 @@
 					(hide yes)
 				)
 			)
-			(symbol "Conn_01x04_Pin_1_1"
+			(symbol "Conn_01x05_Pin_1_1"
+				(rectangle
+					(start 0.8636 5.207)
+					(end 0 4.953)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
 				(rectangle
 					(start 0.8636 2.667)
 					(end 0 2.413)
@@ -335,6 +346,18 @@
 					)
 					(fill
 						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 5.08) (xy 0.8636 5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
 					)
 				)
 				(polyline
@@ -386,7 +409,7 @@
 					)
 				)
 				(pin passive line
-					(at 5.08 2.54 180)
+					(at 5.08 5.08 180)
 					(length 3.81)
 					(name "Pin_1"
 						(effects
@@ -404,7 +427,7 @@
 					)
 				)
 				(pin passive line
-					(at 5.08 0 180)
+					(at 5.08 2.54 180)
 					(length 3.81)
 					(name "Pin_2"
 						(effects
@@ -422,7 +445,7 @@
 					)
 				)
 				(pin passive line
-					(at 5.08 -2.54 180)
+					(at 5.08 0 180)
 					(length 3.81)
 					(name "Pin_3"
 						(effects
@@ -440,7 +463,7 @@
 					)
 				)
 				(pin passive line
-					(at 5.08 -5.08 180)
+					(at 5.08 -2.54 180)
 					(length 3.81)
 					(name "Pin_4"
 						(effects
@@ -450,6 +473,24 @@
 						)
 					)
 					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -5.08 180)
+					(length 3.81)
+					(name "Pin_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1639,28 +1680,10 @@
 		(uuid "aaa31bd3-2160-4f8d-9904-b70b5d0e96b3")
 	)
 	(junction
-		(at 40.64 96.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ab65a769-170d-4512-a516-c6ad8c8ee1c6")
-	)
-	(junction
 		(at 143.51 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ad07d936-7d75-4c44-ada9-e730b2858b9d")
-	)
-	(junction
-		(at 43.18 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ae3bd92e-8cbb-4137-b748-ca802f269417")
-	)
-	(junction
-		(at 40.64 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b36ccebc-8e49-40c4-9ac0-7d27b2ab36aa")
 	)
 	(junction
 		(at 132.08 87.63)
@@ -1684,26 +1707,6 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 96.52) (xy 50.8 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0c0cfe40-daed-47da-8978-f4c9e293feee")
-	)
-	(wire
-		(pts
-			(xy 43.18 88.9) (xy 50.8 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "108e230c-1088-458b-a6d9-71c80b068033")
-	)
-	(wire
-		(pts
 			(xy 78.74 101.6) (xy 88.9 101.6)
 		)
 		(stroke
@@ -1711,16 +1714,6 @@
 			(type default)
 		)
 		(uuid "13822857-6df4-4134-875b-794db08c9bcd")
-	)
-	(wire
-		(pts
-			(xy 35.56 93.98) (xy 33.02 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1993b68a-dd0c-4734-82f6-1bd5117d10b8")
 	)
 	(wire
 		(pts
@@ -1764,6 +1757,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 125.73) (xy 41.91 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "235a6037-c2b3-43e3-80e8-615d0e2bbe05")
+	)
+	(wire
+		(pts
 			(xy 191.77 87.63) (xy 196.85 87.63)
 		)
 		(stroke
@@ -1794,6 +1797,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 123.19) (xy 41.91 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e525263-337f-4601-a519-815d7fa397aa")
+	)
+	(wire
+		(pts
 			(xy 181.61 85.09) (xy 177.8 85.09)
 		)
 		(stroke
@@ -1811,6 +1824,16 @@
 			(type default)
 		)
 		(uuid "32d9b8f5-a478-4a25-be2b-ea758a798947")
+	)
+	(wire
+		(pts
+			(xy 38.1 120.65) (xy 41.91 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "364e31f3-bd46-4cd7-be03-8a85716ebf4b")
 	)
 	(wire
 		(pts
@@ -1894,16 +1917,6 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 105.41) (xy 35.56 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ec90a9f-9ffd-4adf-bcd3-dd52ab9e1ffb")
-	)
-	(wire
-		(pts
 			(xy 196.85 107.95) (xy 196.85 110.49)
 		)
 		(stroke
@@ -1974,13 +1987,13 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 105.41) (xy 35.56 105.41)
+			(xy 38.1 128.27) (xy 41.91 128.27)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "94c9a026-3abf-4105-9c89-deb5dc6415cd")
+		(uuid "92213325-6ac2-4e6d-87bf-623ff7206aa1")
 	)
 	(wire
 		(pts
@@ -2144,23 +2157,13 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 91.44) (xy 40.64 96.52)
+			(xy 40.64 91.44) (xy 40.64 97.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "d93f1ec2-675a-4f81-bfb9-41b1a9ed289d")
-	)
-	(wire
-		(pts
-			(xy 40.64 97.79) (xy 40.64 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dda8f1af-7880-4b2a-93c5-d3e24c544698")
 	)
 	(wire
 		(pts
@@ -2214,6 +2217,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 118.11) (xy 41.91 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5d0486f-b198-4235-992d-8cdcbe09a46a")
+	)
+	(wire
+		(pts
 			(xy 124.46 87.63) (xy 132.08 87.63)
 		)
 		(stroke
@@ -2231,16 +2244,6 @@
 			(type default)
 		)
 		(uuid "fbef56c8-9ffd-4400-87cf-18dc7f88dbb7")
-	)
-	(wire
-		(pts
-			(xy 40.64 86.36) (xy 50.8 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fead70b7-6141-40b0-91d5-0e43984d1eea")
 	)
 	(label "PINK"
 		(at 171.45 87.63 0)
@@ -2274,47 +2277,91 @@
 	)
 	(hierarchical_label "-12V"
 		(shape input)
-		(at 50.8 96.52 0)
+		(at 33.02 91.44 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "02e8cfd0-62ec-4a0f-8e60-3c9a848ee628")
 	)
-	(hierarchical_label "NOISE_OUT"
-		(shape output)
-		(at 50.8 105.41 0)
+	(hierarchical_label "GND"
+		(shape input)
+		(at 41.91 120.65 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "44385dcf-dfdb-4212-add8-61d82ace9ec0")
+		(uuid "3e6c6ccc-1f81-4b11-8106-2959f6f5ce69")
 	)
 	(hierarchical_label "+12V"
 		(shape input)
-		(at 50.8 86.36 0)
+		(at 33.02 86.36 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "5d424a34-4102-4e82-83bb-25fc5a1e32d8")
 	)
-	(hierarchical_label "GND"
+	(hierarchical_label "-12V"
 		(shape input)
-		(at 50.8 88.9 0)
+		(at 41.91 123.19 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
+		(uuid "764c83a7-8516-4eae-9684-b7264f633e2c")
+	)
+	(hierarchical_label "GLIDE"
+		(shape output)
+		(at 41.91 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8f9aff2d-477c-4f8c-9847-56ac80cb6ee3")
+	)
+	(hierarchical_label "GND"
+		(shape input)
+		(at 33.02 88.9 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
 		(uuid "a20172d5-d730-40ab-8e46-33714a37009a")
+	)
+	(hierarchical_label "+12V"
+		(shape input)
+		(at 41.91 118.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bdbc7f97-93c1-4315-8ac4-56950adee4d2")
+	)
+	(hierarchical_label "NOISE_OUT"
+		(shape output)
+		(at 41.91 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c5c63441-68d3-4996-90e3-e4eb5fa9207b")
 	)
 	(hierarchical_label "NOISE_OUT"
 		(shape output)
@@ -2355,7 +2402,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 133.858 93.98 90)
 			(effects
 				(font
@@ -2398,80 +2445,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x04_Pin")
-		(at 27.94 88.9 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "23eb7c1b-bbb6-4c4c-9971-c86cd6171647")
-		(property "Reference" "J4"
-			(at 28.575 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x04_Pin"
-			(at 28.575 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 27.94 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 27.94 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 27.94 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e0c887de-3008-4a45-839a-850903f8cb4f")
-		)
-		(pin "2"
-			(uuid "45c5ac33-0b22-4666-9b80-75974a96f77e")
-		)
-		(pin "3"
-			(uuid "ead81c5a-fcf3-46bd-8703-45578a86c256")
-		)
-		(pin "4"
-			(uuid "75a0ad6d-d26c-4d11-b2a0-7ba8e31aa57b")
-		)
-		(instances
-			(project ""
-				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/23ff179f-f3ca-4876-91dc-9a0adb7dbeaf"
-					(reference "J4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 165.1 99.06 0)
 		(unit 1)
@@ -2490,7 +2463,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" ".033"
+		(property "Value" ".033uF"
 			(at 168.91 100.3299 0)
 			(effects
 				(font
@@ -2499,7 +2472,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 166.0652 102.87 0)
 			(effects
 				(font
@@ -2552,14 +2525,14 @@
 		(fields_autoplaced yes)
 		(uuid "34da84fa-65b9-44be-a599-4f15bd82667b")
 		(property "Reference" "U5"
-			(at 111.76 81.2098 0)
+			(at 111.76 83.7498 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "MM5837"
 			(at 111.76 83.7498 0)
 			(effects
 				(font
@@ -2568,7 +2541,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_LongPads"
 			(at 101.6 86.36 0)
 			(effects
 				(font
@@ -2638,7 +2611,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37c33828-9bdd-400c-a0fc-54b07126d29c")
-		(property "Reference" "C12"
+		(property "Reference" "CP12"
 			(at 200.66 91.8209 0)
 			(effects
 				(font
@@ -2656,7 +2629,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.80mm"
 			(at 197.8152 97.79 0)
 			(effects
 				(font
@@ -2692,7 +2665,7 @@
 		(instances
 			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/23ff179f-f3ca-4876-91dc-9a0adb7dbeaf"
-					(reference "C12")
+					(reference "CP12")
 					(unit 1)
 				)
 			)
@@ -2725,7 +2698,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SR2511F-0403-(L)K0A-C9-S-3_1"
 			(at 202.565 83.185 0)
 			(effects
 				(font
@@ -2925,7 +2898,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" ".1"
+		(property "Value" ".1uF"
 			(at 147.32 105.4099 0)
 			(effects
 				(font
@@ -2934,7 +2907,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 144.4752 107.95 0)
 			(effects
 				(font
@@ -3069,7 +3042,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 207.01 105.918 90)
 			(effects
 				(font
@@ -3139,7 +3112,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 145.288 93.98 90)
 			(effects
 				(font
@@ -3257,7 +3230,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7321b076-4475-42f3-a8c1-5cba48c44038")
-		(property "Reference" "C8"
+		(property "Reference" "CP8"
 			(at 135.89 101.9809 0)
 			(effects
 				(font
@@ -3275,7 +3248,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.80mm"
 			(at 133.0452 107.95 0)
 			(effects
 				(font
@@ -3311,7 +3284,7 @@
 		(instances
 			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/23ff179f-f3ca-4876-91dc-9a0adb7dbeaf"
-					(reference "C8")
+					(reference "CP8")
 					(unit 1)
 				)
 			)
@@ -3345,7 +3318,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 155.448 93.98 90)
 			(effects
 				(font
@@ -3388,6 +3361,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x05_Pin")
+		(at 33.02 123.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "847e368a-4e8e-4f8c-b0c2-e6b6106d9c8d")
+		(property "Reference" "J2"
+			(at 31.75 123.1899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x04_Pin"
+			(at 31.75 125.7299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
+			(at 33.02 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 33.02 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x05, script generated"
+			(at 33.02 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "9f4535bb-8499-4904-b99f-1d5c5f983403")
+		)
+		(pin "4"
+			(uuid "7c12073b-8dd0-4165-9c38-6828282af2c6")
+		)
+		(pin "2"
+			(uuid "23a013af-e017-42c5-908a-4da270068933")
+		)
+		(pin "1"
+			(uuid "fb31b105-5842-4e3f-94ff-1757aef6957e")
+		)
+		(pin "5"
+			(uuid "d3bf6256-1c2d-49f4-9d8d-e5cf462015b9")
+		)
+		(instances
+			(project "jensx1000"
+				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/23ff179f-f3ca-4876-91dc-9a0adb7dbeaf"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 120.65 87.63 90)
 		(unit 1)
@@ -3413,7 +3464,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 120.65 89.408 90)
 			(effects
 				(font
@@ -3474,7 +3525,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" ".27"
+		(property "Value" ".27uF"
 			(at 157.48 105.4099 0)
 			(effects
 				(font
@@ -3483,7 +3534,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 154.6352 107.95 0)
 			(effects
 				(font
@@ -3533,7 +3584,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "aedb5382-86a8-488f-baf1-4e08cd11485e")
 		(property "Reference" "RV2"
 			(at 194.31 102.8699 0)
@@ -3553,7 +3603,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Omeg_PC16BU_Vertical"
 			(at 196.85 104.14 0)
 			(effects
 				(font
@@ -3571,13 +3621,12 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Potentiometer"
-			(at 196.85 104.14 0)
+		(property "Description" "NOISE LEVEL"
+			(at 189.484 108.966 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3756,7 +3805,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 143.51 76.708 90)
 			(effects
 				(font
@@ -3808,7 +3857,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d5e8f1db-aac2-4e24-b3b4-ed70dea41804")
-		(property "Reference" "C7"
+		(property "Reference" "CP7"
 			(at 82.55 89.2809 0)
 			(effects
 				(font
@@ -3826,7 +3875,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.80mm"
 			(at 79.7052 95.25 0)
 			(effects
 				(font
@@ -3862,7 +3911,7 @@
 		(instances
 			(project ""
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/23ff179f-f3ca-4876-91dc-9a0adb7dbeaf"
-					(reference "C7")
+					(reference "CP7")
 					(unit 1)
 				)
 			)
