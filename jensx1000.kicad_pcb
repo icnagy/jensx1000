@@ -2479,7 +2479,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "03b78309-744c-46e0-a554-1fcb4f317056")
-		(at 165.428667 278.253 90)
+		(at 437.811111 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW32"
@@ -5291,7 +5291,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "0ccac20e-de12-4997-9300-8ba3fb10144d")
-		(at 79.247333 278.253 90)
+		(at 181.388889 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW10"
@@ -6017,7 +6017,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "0fd0a121-4fef-4372-8af9-1af12d04ff90")
-		(at 114.503333 278.253 90)
+		(at 286.288889 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW19"
@@ -6919,7 +6919,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "1291d7d3-89a1-438b-841c-5cd197d5d6ff")
-		(at 51.826 278.253 90)
+		(at 99.8 246.8 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW3"
@@ -7612,7 +7612,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "17c16125-e0a2-416d-8d3f-f82420a82a16")
-		(at 126.255333 278.253 90)
+		(at 321.255556 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW22"
@@ -10801,7 +10801,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "1c4fd58f-d678-43eb-beeb-7b146d1e098f")
-		(at 149.759333 278.253 90)
+		(at 391.188889 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW28"
@@ -11146,7 +11146,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "1e8a5c92-d812-44ee-a230-516a25a0d594")
-		(at 177.097444 290.62 90)
+		(at 472.777778 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D43"
@@ -11953,7 +11953,7 @@
 	(footprint "Capacitor_THT:CP_Radial_D8.0mm_P3.80mm"
 		(layer "F.Cu")
 		(uuid "22d01d0a-4cbb-42b0-818d-92997cbf3546")
-		(at 173.764698 325.33)
+		(at 472.797349 309.34)
 		(descr "CP, Radial series, Radial, pin pitch=3.80mm, diameter=8mm, height=14mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 3.80mm diameter 8mm height 14mm Electrolytic Capacitor")
 		(property "Reference" "CP28"
@@ -14548,11 +14548,11 @@
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "27551412-4275-4423-af78-90c01d82c8f0")
-		(at 172.17 303.23)
+		(at 503.21 275.36 90)
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R74"
-			(at 3.81 -1.92 0)
+			(at 3.81 -1.92 90)
 			(layer "F.SilkS")
 			(uuid "86b73ce6-2045-465c-8584-447650068a4a")
 			(effects
@@ -14563,7 +14563,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 3.81 1.92 0)
+			(at 3.81 1.92 90)
 			(layer "F.Fab")
 			(uuid "571c492c-4800-42d6-bc4d-c03be356304b")
 			(effects
@@ -14574,7 +14574,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b362e891-9297-4c03-bad2-ea0fccd5a4e9")
@@ -14586,7 +14586,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fb67c7bb-95af-428f-80e6-d46d440a81a3")
@@ -14603,16 +14603,6 @@
 		(sheetfile "keyboard.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 0.94 0)
-			(end 1.89 0)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "4572d4bf-80d7-44fc-b235-80664592e7bd")
-		)
-		(fp_line
 			(start 6.68 0)
 			(end 5.73 0)
 			(stroke
@@ -14621,6 +14611,16 @@
 			)
 			(layer "F.SilkS")
 			(uuid "47c7ac8f-39f4-41bf-b1b4-24dc079b7577")
+		)
+		(fp_line
+			(start 0.94 0)
+			(end 1.89 0)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "4572d4bf-80d7-44fc-b235-80664592e7bd")
 		)
 		(fp_rect
 			(start 1.89 -0.92)
@@ -14645,16 +14645,6 @@
 			(uuid "d5a937c8-d039-4ee9-a0fc-32c5cc0b8827")
 		)
 		(fp_line
-			(start 0 0)
-			(end 2.01 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "e99d67e7-9a57-43de-8536-6e8fb422037c")
-		)
-		(fp_line
 			(start 7.62 0)
 			(end 5.61 0)
 			(stroke
@@ -14663,6 +14653,16 @@
 			)
 			(layer "F.Fab")
 			(uuid "f8fdb1bc-d755-4cb4-ae20-6558d05b5e0d")
+		)
+		(fp_line
+			(start 0 0)
+			(end 2.01 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "e99d67e7-9a57-43de-8536-6e8fb422037c")
 		)
 		(fp_rect
 			(start 2.01 -0.8)
@@ -14676,7 +14676,7 @@
 			(uuid "f45e8bb0-0296-4274-a07f-56d42edc2af8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 0 0)
+			(at 3.81 0 90)
 			(layer "F.Fab")
 			(uuid "4a9ef226-c447-466d-b595-f190715f42c3")
 			(effects
@@ -14687,7 +14687,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0)
+			(at 0 0 90)
 			(size 1.4 1.4)
 			(drill 0.7)
 			(layers "*.Cu" "*.Mask")
@@ -14697,7 +14697,7 @@
 			(uuid "2dde3e70-1f8a-4b7e-9275-400b8b3bf366")
 		)
 		(pad "2" thru_hole circle
-			(at 7.62 0)
+			(at 7.62 0 90)
 			(size 1.4 1.4)
 			(drill 0.7)
 			(layers "*.Cu" "*.Mask")
@@ -14722,7 +14722,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "27a69675-09c8-4d90-97ca-0765aa3fcb4e")
-		(at 90.999333 278.253 90)
+		(at 216.355556 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW13"
@@ -15786,11 +15786,11 @@
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "29f840c3-2847-460e-bbd6-e87194e88eb0")
-		(at 172.17 312.68)
+		(at 494.26 267.74 -90)
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R107"
-			(at 3.81 -1.92 0)
+			(at 3.81 -1.92 90)
 			(layer "F.SilkS")
 			(uuid "3c1dc6d7-5312-4eb9-a44d-ce59b9ed7897")
 			(effects
@@ -15801,7 +15801,7 @@
 			)
 		)
 		(property "Value" "5K6"
-			(at 3.81 1.92 0)
+			(at 3.81 1.92 90)
 			(layer "F.Fab")
 			(uuid "ebe7861f-91dd-4681-99f7-e95db281627e")
 			(effects
@@ -15812,7 +15812,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "177d3faa-d14a-4b56-b86f-fb0909e57084")
@@ -15824,7 +15824,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bbe312d6-43c6-481e-9db6-b3d2ae9a46e4")
@@ -15914,7 +15914,7 @@
 			(uuid "fdafd750-a20a-4dbf-8c22-e19853c7fcae")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 0 0)
+			(at 3.81 0 90)
 			(layer "F.Fab")
 			(uuid "5831e3a3-ed81-43f7-8375-e0326a2babc8")
 			(effects
@@ -15925,7 +15925,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0)
+			(at 0 0 270)
 			(size 1.4 1.4)
 			(drill 0.7)
 			(layers "*.Cu" "*.Mask")
@@ -15935,7 +15935,7 @@
 			(uuid "78a42b19-65b4-425b-9bcf-78e77c7e526e")
 		)
 		(pad "2" thru_hole circle
-			(at 7.62 0)
+			(at 7.62 0 270)
 			(size 1.4 1.4)
 			(drill 0.7)
 			(layers "*.Cu" "*.Mask")
@@ -17442,7 +17442,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "33ea1cc8-b821-4f5b-a56c-94f3b717d8df")
-		(at 51.933 290.62 90)
+		(at 99.8 259.167 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D11"
@@ -19974,7 +19974,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "35fb1c18-2245-4c15-b0c9-36f3939be978")
-		(at 98.834 278.253 90)
+		(at 239.666667 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW15"
@@ -20528,7 +20528,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "39bf1660-87dd-40a0-aa32-26bc268b27bf")
-		(at 145.806333 290.62 90)
+		(at 379.533333 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D35"
@@ -24258,7 +24258,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "3cc438aa-323f-40cb-9894-98b9e9e6d6ee")
-		(at 114.515222 290.62 90)
+		(at 286.288889 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D27"
@@ -25779,7 +25779,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "42ca8984-8500-4fbe-8b82-493ea20fc20b")
-		(at 55.844389 290.62 90)
+		(at 111.455556 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D12"
@@ -26282,7 +26282,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "457a119a-f132-4072-bc91-880b7e7098b1")
-		(at 192.743 290.62 90)
+		(at 519.4 259.167 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D47"
@@ -26986,13 +26986,13 @@
 	(footprint "Package_DIP:DIP-40_W15.24mm_LongPads"
 		(layer "F.Cu")
 		(uuid "46426ebf-f1d0-447a-a264-5024645e660c")
-		(at 224.24 315.32 180)
+		(at 471.3 296.38 90)
 		(descr "40-lead though-hole mounted DIP package, row spacing 15.24mm (600 mils), LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 15.24mm 600mil LongPads")
 		(property "Reference" "U17"
-			(at 7.62 -2.33 0)
+			(at 7.62 -2.33 90)
 			(layer "F.SilkS")
-			(uuid "2915ffc1-3f84-4158-84ae-b0794da6bd61")
+			(uuid "f311ad65-bdbf-4e2a-b564-834b02cca791")
 			(effects
 				(font
 					(size 1 1)
@@ -27001,9 +27001,9 @@
 			)
 		)
 		(property "Value" "M110"
-			(at 7.62 50.59 0)
+			(at 7.62 50.59 90)
 			(layer "F.Fab")
-			(uuid "7479bd08-7187-4a04-8db1-bb4c71fa62dd")
+			(uuid "3567f95f-c10c-4f7a-a2ed-6eaa54c5dc24")
 			(effects
 				(font
 					(size 1 1)
@@ -27012,10 +27012,10 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e2e0e23a-f77c-4ea4-8f33-0d618e57c139")
+			(uuid "24805cdb-850b-4446-b933-1f237a93a59a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27024,10 +27024,10 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0bdff083-8d0e-415b-856c-6e4cc13c1e47")
+			(uuid "29af526a-eac8-4fd1-ae4b-7abd21fe5d2c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27039,16 +27039,6 @@
 		(sheetname "/Keyboard/")
 		(sheetfile "keyboard.kicad_sch")
 		(attr through_hole)
-		(fp_line
-			(start 13.68 49.59)
-			(end 13.68 -1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "bdaad599-b162-4d58-87f3-17eab974c647")
-		)
 		(fp_line
 			(start 13.68 -1.33)
 			(end 8.62 -1.33)
@@ -27070,16 +27060,6 @@
 			(uuid "4c0ba0e3-2b52-42d3-97b1-db148dfbd123")
 		)
 		(fp_line
-			(start 1.56 49.59)
-			(end 13.68 49.59)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "cae61bd4-1a7a-429a-9669-d43ef25fe172")
-		)
-		(fp_line
 			(start 1.56 -1.33)
 			(end 1.56 49.59)
 			(stroke
@@ -27088,6 +27068,26 @@
 			)
 			(layer "F.SilkS")
 			(uuid "e53a5393-2228-493c-aaeb-a94994153876")
+		)
+		(fp_line
+			(start 13.68 49.59)
+			(end 13.68 -1.33)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "bdaad599-b162-4d58-87f3-17eab974c647")
+		)
+		(fp_line
+			(start 1.56 49.59)
+			(end 13.68 49.59)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "cae61bd4-1a7a-429a-9669-d43ef25fe172")
 		)
 		(fp_arc
 			(start 8.62 -1.33)
@@ -27112,16 +27112,6 @@
 			(uuid "a071ca69-f71a-49a7-8fc8-70ce76a404e1")
 		)
 		(fp_line
-			(start 14.985 49.53)
-			(end 0.255 49.53)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "b2e6844c-5b76-4220-b90f-f9a281368fa7")
-		)
-		(fp_line
 			(start 14.985 -1.27)
 			(end 14.985 49.53)
 			(stroke
@@ -27142,16 +27132,6 @@
 			(uuid "e3500fe0-c900-454f-94be-236483b408ad")
 		)
 		(fp_line
-			(start 0.255 49.53)
-			(end 0.255 -0.27)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "a591b088-b444-48aa-a253-f43f7d4524c1")
-		)
-		(fp_line
 			(start 0.255 -0.27)
 			(end 1.255 -1.27)
 			(stroke
@@ -27161,8 +27141,28 @@
 			(layer "F.Fab")
 			(uuid "5b33e339-e680-4410-883e-5ae3483a2e69")
 		)
+		(fp_line
+			(start 14.985 49.53)
+			(end 0.255 49.53)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "b2e6844c-5b76-4220-b90f-f9a281368fa7")
+		)
+		(fp_line
+			(start 0.255 49.53)
+			(end 0.255 -0.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "a591b088-b444-48aa-a253-f43f7d4524c1")
+		)
 		(fp_text user "${REFERENCE}"
-			(at 7.62 24.13 90)
+			(at 7.62 24.13 0)
 			(layer "F.Fab")
 			(uuid "5cece7e3-6b63-4498-8b28-164fb0e8d712")
 			(effects
@@ -27173,7 +27173,7 @@
 			)
 		)
 		(pad "1" thru_hole roundrect
-			(at 0 0 180)
+			(at 0 0 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27185,7 +27185,7 @@
 			(uuid "dbad7206-f234-4fcb-adcd-6708db070dc3")
 		)
 		(pad "2" thru_hole oval
-			(at 0 2.54 180)
+			(at 0 2.54 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27196,7 +27196,7 @@
 			(uuid "8ff583e4-ca3b-4d9d-b439-62b850fe7e6a")
 		)
 		(pad "3" thru_hole oval
-			(at 0 5.08 180)
+			(at 0 5.08 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27207,7 +27207,7 @@
 			(uuid "83d4d82d-1dac-4892-9ad9-7547506e761a")
 		)
 		(pad "4" thru_hole oval
-			(at 0 7.62 180)
+			(at 0 7.62 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27218,7 +27218,7 @@
 			(uuid "3c7300e3-3bce-4e50-80e6-71c2d8154251")
 		)
 		(pad "5" thru_hole oval
-			(at 0 10.16 180)
+			(at 0 10.16 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27229,7 +27229,7 @@
 			(uuid "51f61a9f-72ca-40a0-b788-d7fb68146c1a")
 		)
 		(pad "6" thru_hole oval
-			(at 0 12.7 180)
+			(at 0 12.7 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27240,7 +27240,7 @@
 			(uuid "857eb135-3f40-41dc-a9ef-1559d81c039d")
 		)
 		(pad "7" thru_hole oval
-			(at 0 15.24 180)
+			(at 0 15.24 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27251,7 +27251,7 @@
 			(uuid "ac7368fb-ac5c-4163-b8b5-0f1693ffcc87")
 		)
 		(pad "8" thru_hole oval
-			(at 0 17.78 180)
+			(at 0 17.78 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27262,7 +27262,7 @@
 			(uuid "563736e9-2114-4a5e-b4fe-65ffdc521511")
 		)
 		(pad "9" thru_hole oval
-			(at 0 20.32 180)
+			(at 0 20.32 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27273,7 +27273,7 @@
 			(uuid "356b70e6-b727-4712-b447-7cc16ca3f9a2")
 		)
 		(pad "10" thru_hole oval
-			(at 0 22.86 180)
+			(at 0 22.86 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27284,7 +27284,7 @@
 			(uuid "f1c56391-1260-4a10-af3f-6882cf606fc6")
 		)
 		(pad "11" thru_hole oval
-			(at 0 25.4 180)
+			(at 0 25.4 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27295,7 +27295,7 @@
 			(uuid "f8914e4e-194a-40bc-a8d3-ba4ab0de1c48")
 		)
 		(pad "12" thru_hole oval
-			(at 0 27.94 180)
+			(at 0 27.94 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27306,7 +27306,7 @@
 			(uuid "2339c677-07a1-4225-937b-1661d9113a2f")
 		)
 		(pad "13" thru_hole oval
-			(at 0 30.48 180)
+			(at 0 30.48 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27317,7 +27317,7 @@
 			(uuid "35a35df0-c49b-4856-8234-d64a132161ad")
 		)
 		(pad "14" thru_hole oval
-			(at 0 33.02 180)
+			(at 0 33.02 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27328,7 +27328,7 @@
 			(uuid "f9359c78-2e5e-45bd-882a-011e3a2cbdeb")
 		)
 		(pad "15" thru_hole oval
-			(at 0 35.56 180)
+			(at 0 35.56 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27339,7 +27339,7 @@
 			(uuid "f4df2f1f-c5f9-405b-b2af-e4fa5f091641")
 		)
 		(pad "16" thru_hole oval
-			(at 0 38.1 180)
+			(at 0 38.1 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27350,7 +27350,7 @@
 			(uuid "09885eec-2a67-4b6a-bd8a-c3b79e36136c")
 		)
 		(pad "17" thru_hole oval
-			(at 0 40.64 180)
+			(at 0 40.64 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27361,7 +27361,7 @@
 			(uuid "81022577-8bf9-4874-b9fe-f6a0b28eaf22")
 		)
 		(pad "18" thru_hole oval
-			(at 0 43.18 180)
+			(at 0 43.18 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27372,7 +27372,7 @@
 			(uuid "c1c4f49b-e934-4b66-aa9b-a26f37a07dbf")
 		)
 		(pad "19" thru_hole oval
-			(at 0 45.72 180)
+			(at 0 45.72 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27383,7 +27383,7 @@
 			(uuid "78cca12d-238d-4fab-bdee-dd722809dcc9")
 		)
 		(pad "20" thru_hole oval
-			(at 0 48.26 180)
+			(at 0 48.26 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27394,7 +27394,7 @@
 			(uuid "7cad6f47-c25b-4804-a0ca-e03935a3665a")
 		)
 		(pad "21" thru_hole oval
-			(at 15.24 48.26 180)
+			(at 15.24 48.26 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27405,7 +27405,7 @@
 			(uuid "9f9d8259-6c41-4f76-ac4e-1db2306a1d82")
 		)
 		(pad "22" thru_hole oval
-			(at 15.24 45.72 180)
+			(at 15.24 45.72 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27416,7 +27416,7 @@
 			(uuid "e3731b1c-d625-4ad0-97a3-9a78e91315e6")
 		)
 		(pad "23" thru_hole oval
-			(at 15.24 43.18 180)
+			(at 15.24 43.18 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27427,7 +27427,7 @@
 			(uuid "570a913f-a08f-46e5-aa76-25800e1832a5")
 		)
 		(pad "24" thru_hole oval
-			(at 15.24 40.64 180)
+			(at 15.24 40.64 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27438,7 +27438,7 @@
 			(uuid "cd87a7ce-9aef-408f-9a4c-404a13adcad4")
 		)
 		(pad "25" thru_hole oval
-			(at 15.24 38.1 180)
+			(at 15.24 38.1 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27449,7 +27449,7 @@
 			(uuid "5fb8862f-2058-4387-9b97-65caf193410a")
 		)
 		(pad "26" thru_hole oval
-			(at 15.24 35.56 180)
+			(at 15.24 35.56 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27460,7 +27460,7 @@
 			(uuid "8eedb797-2dd5-4580-bdc0-195c384b0ddf")
 		)
 		(pad "27" thru_hole oval
-			(at 15.24 33.02 180)
+			(at 15.24 33.02 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27471,7 +27471,7 @@
 			(uuid "10360bbc-ba6a-49d9-8fc8-24351d309e68")
 		)
 		(pad "28" thru_hole oval
-			(at 15.24 30.48 180)
+			(at 15.24 30.48 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27482,7 +27482,7 @@
 			(uuid "2d555734-fe13-4425-8426-c9a85cd9a6be")
 		)
 		(pad "29" thru_hole oval
-			(at 15.24 27.94 180)
+			(at 15.24 27.94 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27493,7 +27493,7 @@
 			(uuid "08f18515-cff8-4b63-983d-bca8af54d44f")
 		)
 		(pad "30" thru_hole oval
-			(at 15.24 25.4 180)
+			(at 15.24 25.4 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27504,7 +27504,7 @@
 			(uuid "ec8ed70e-e295-410e-b3f7-cb2135524d67")
 		)
 		(pad "31" thru_hole oval
-			(at 15.24 22.86 180)
+			(at 15.24 22.86 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27515,7 +27515,7 @@
 			(uuid "76d966ba-064c-458b-819e-7376950585ea")
 		)
 		(pad "32" thru_hole oval
-			(at 15.24 20.32 180)
+			(at 15.24 20.32 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27526,7 +27526,7 @@
 			(uuid "d750487a-9656-4e35-8ec8-8d17240cebde")
 		)
 		(pad "33" thru_hole oval
-			(at 15.24 17.78 180)
+			(at 15.24 17.78 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27537,7 +27537,7 @@
 			(uuid "c8056f13-453f-46dc-963f-ba9739f574a2")
 		)
 		(pad "34" thru_hole oval
-			(at 15.24 15.24 180)
+			(at 15.24 15.24 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27548,7 +27548,7 @@
 			(uuid "3a4563f1-ce39-45bb-b0c4-401b8c03beff")
 		)
 		(pad "35" thru_hole oval
-			(at 15.24 12.7 180)
+			(at 15.24 12.7 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27559,7 +27559,7 @@
 			(uuid "f5107a52-c0ab-4a7c-bd5f-b211c829ce60")
 		)
 		(pad "36" thru_hole oval
-			(at 15.24 10.16 180)
+			(at 15.24 10.16 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27570,7 +27570,7 @@
 			(uuid "87e87103-4549-4379-8d19-ab44d7245f9f")
 		)
 		(pad "37" thru_hole oval
-			(at 15.24 7.62 180)
+			(at 15.24 7.62 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27581,7 +27581,7 @@
 			(uuid "59871553-b72b-41d5-8d2e-603871478a3c")
 		)
 		(pad "38" thru_hole oval
-			(at 15.24 5.08 180)
+			(at 15.24 5.08 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27592,7 +27592,7 @@
 			(uuid "65ef095f-9f49-4b99-a1aa-da795f1a6735")
 		)
 		(pad "39" thru_hole oval
-			(at 15.24 2.54 180)
+			(at 15.24 2.54 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27603,7 +27603,7 @@
 			(uuid "faab9c62-6b84-478d-82af-294624bb9dbd")
 		)
 		(pad "40" thru_hole oval
-			(at 15.24 0 180)
+			(at 15.24 0 90)
 			(size 2.4 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -27629,7 +27629,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "47f09480-ce3a-4eff-9ec4-32a8e5aaeab3")
-		(at 149.717722 290.62 90)
+		(at 391.188889 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D36"
@@ -29459,7 +29459,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "4c9050b3-3ca7-46ba-b481-567c7277b266")
-		(at 161.451889 290.62 90)
+		(at 426.155556 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D39"
@@ -29918,7 +29918,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "50c80349-adc0-4b64-bda1-4b33cc7ae801")
-		(at 83.224111 290.62 90)
+		(at 193.044444 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D19"
@@ -30698,7 +30698,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "547d19f4-c5a7-4c0d-9974-3ee7a44c76c3")
-		(at 169.346 278.253 90)
+		(at 449.466667 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW33"
@@ -30860,7 +30860,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "5611d374-b9b4-4f8c-8428-6d1c46f13d2f")
-		(at 137.983556 290.62 90)
+		(at 356.222222 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D33"
@@ -31430,7 +31430,7 @@
 	(footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "57ae8830-fdb2-4e4c-9c98-c18c90deb67c")
-		(at 192.09 300.53)
+		(at 462.66 310.5 180)
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C29"
@@ -31485,44 +31485,14 @@
 		(sheetfile "keyboard.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start -0.12 -1.37)
-			(end 5.12 -1.37)
+			(start 5.12 1.37)
+			(end -0.12 1.37)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "910a1c2c-52e2-4630-be7f-6d0e14dfcb5e")
-		)
-		(fp_line
-			(start -0.12 -1.033)
-			(end -0.12 -1.37)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "4f19c285-023f-41a4-84f5-c614cafb183f")
-		)
-		(fp_line
-			(start -0.12 1.37)
-			(end -0.12 1.033)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "e8c5b1c4-460e-4903-8ed5-2be1c76ce40d")
-		)
-		(fp_line
-			(start 5.12 -1.37)
-			(end 5.12 -1.033)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "1e78e0e6-85b7-40ae-b93f-3fc8178f08fd")
+			(uuid "2d862dfe-d3f9-484f-8794-94ec218db72d")
 		)
 		(fp_line
 			(start 5.12 1.033)
@@ -31535,14 +31505,44 @@
 			(uuid "722494f8-c577-4103-8b9b-b74ffb45ae04")
 		)
 		(fp_line
-			(start 5.12 1.37)
-			(end -0.12 1.37)
+			(start 5.12 -1.37)
+			(end 5.12 -1.033)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2d862dfe-d3f9-484f-8794-94ec218db72d")
+			(uuid "1e78e0e6-85b7-40ae-b93f-3fc8178f08fd")
+		)
+		(fp_line
+			(start -0.12 1.37)
+			(end -0.12 1.033)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e8c5b1c4-460e-4903-8ed5-2be1c76ce40d")
+		)
+		(fp_line
+			(start -0.12 -1.033)
+			(end -0.12 -1.37)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "4f19c285-023f-41a4-84f5-c614cafb183f")
+		)
+		(fp_line
+			(start -0.12 -1.37)
+			(end 5.12 -1.37)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "910a1c2c-52e2-4630-be7f-6d0e14dfcb5e")
 		)
 		(fp_rect
 			(start -1.05 -1.5)
@@ -31578,7 +31578,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0)
+			(at 0 0 180)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -31588,7 +31588,7 @@
 			(uuid "418323af-187a-41b3-a095-9d6b1d6bc61a")
 		)
 		(pad "2" thru_hole circle
-			(at 5 0)
+			(at 5 0 180)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -31796,7 +31796,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "58327fe4-3d7b-4a03-b0ae-4e21e6b3bfd4")
-		(at 79.312722 290.62 90)
+		(at 181.388889 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D18"
@@ -32590,7 +32590,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "5a7e87d5-25ef-40b2-8e47-64477733d30f")
-		(at 71.489944 290.62 90)
+		(at 158.077778 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D16"
@@ -33315,7 +33315,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "5efcf9ea-5a44-4c04-9471-47413ddde9e8")
-		(at 83.164667 278.253 90)
+		(at 193.044444 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW11"
@@ -35328,7 +35328,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "6af5797e-ce3d-4009-a49b-16a620ab88a0")
-		(at 130.160778 290.62 90)
+		(at 332.911111 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D31"
@@ -35971,7 +35971,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "6be84444-a538-4420-a8b2-351a13342044")
-		(at 153.676667 278.253 90)
+		(at 402.844444 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW29"
@@ -39975,7 +39975,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "6fd39860-1b7a-439d-9112-a2d18046c9d7")
-		(at 102.781056 290.62 90)
+		(at 251.322222 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D24"
@@ -43498,7 +43498,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "752ba301-52ed-48bd-858b-fa30d865196a")
-		(at 102.751333 278.253 90)
+		(at 251.322222 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW16"
@@ -43660,7 +43660,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "75f8d3b3-110f-4d27-8e18-ce3e74923fa1")
-		(at 87.082 278.253 90)
+		(at 204.7 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW12"
@@ -43996,7 +43996,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "77717ebe-259c-4571-836b-95358d062f3a")
-		(at 75.401333 290.62 90)
+		(at 169.733333 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D17"
@@ -44958,7 +44958,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "7e802cca-63dd-4079-b6f2-ecd95351989d")
-		(at 172.17 306.38)
+		(at 463.06 305.94 180)
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R75"
@@ -45013,16 +45013,6 @@
 		(sheetfile "keyboard.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 0.94 0)
-			(end 1.89 0)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "7a9c469c-a200-4196-be53-c3f39761f2d2")
-		)
-		(fp_line
 			(start 6.68 0)
 			(end 5.73 0)
 			(stroke
@@ -45031,6 +45021,16 @@
 			)
 			(layer "F.SilkS")
 			(uuid "f639eecc-de28-4177-8c2e-84ac8e497389")
+		)
+		(fp_line
+			(start 0.94 0)
+			(end 1.89 0)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "7a9c469c-a200-4196-be53-c3f39761f2d2")
 		)
 		(fp_rect
 			(start 1.89 -0.92)
@@ -45055,16 +45055,6 @@
 			(uuid "140ae763-06b2-4942-aff6-906f33444481")
 		)
 		(fp_line
-			(start 0 0)
-			(end 2.01 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "08696ca6-a2ad-45cb-9493-66f0b2529e61")
-		)
-		(fp_line
 			(start 7.62 0)
 			(end 5.61 0)
 			(stroke
@@ -45073,6 +45063,16 @@
 			)
 			(layer "F.Fab")
 			(uuid "bbb39f1a-a2b9-4bba-aeeb-f37efb957310")
+		)
+		(fp_line
+			(start 0 0)
+			(end 2.01 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "08696ca6-a2ad-45cb-9493-66f0b2529e61")
 		)
 		(fp_rect
 			(start 2.01 -0.8)
@@ -45097,7 +45097,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0)
+			(at 0 0 180)
 			(size 1.4 1.4)
 			(drill 0.7)
 			(layers "*.Cu" "*.Mask")
@@ -45107,7 +45107,7 @@
 			(uuid "f71151dc-e9be-42ed-8f89-a13fe4ff7036")
 		)
 		(pad "2" thru_hole circle
-			(at 7.62 0)
+			(at 7.62 0 180)
 			(size 1.4 1.4)
 			(drill 0.7)
 			(layers "*.Cu" "*.Mask")
@@ -45700,7 +45700,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "7f70f06f-c426-44d3-99ab-d505002fc3f6")
-		(at 188.831611 290.62 90)
+		(at 507.744444 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D46"
@@ -45985,7 +45985,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "7fd83e69-a4aa-488e-95bb-d5b1ec5ec7dc")
-		(at 165.363278 290.62 90)
+		(at 437.811111 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D40"
@@ -46618,11 +46618,11 @@
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "80a970a1-5bf8-42fb-94e6-6675eb44b8dc")
-		(at 172.17 318.98)
+		(at 489.06 267.74 -90)
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R109"
-			(at 3.81 -1.92 0)
+			(at 3.81 -1.92 90)
 			(layer "F.SilkS")
 			(uuid "b80ccd3e-016d-4b6b-98c7-20af492a6670")
 			(effects
@@ -46633,7 +46633,7 @@
 			)
 		)
 		(property "Value" "5K6"
-			(at 3.81 1.92 0)
+			(at 3.81 1.92 90)
 			(layer "F.Fab")
 			(uuid "e2db7164-a0b9-443b-b1de-8886e90641d3")
 			(effects
@@ -46644,7 +46644,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "eb00a08b-d399-427c-b679-805aada78878")
@@ -46656,7 +46656,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c8d90e12-ff31-45e7-ac7a-0b24d791a9e8")
@@ -46746,7 +46746,7 @@
 			(uuid "bd5bbd0a-72ff-4e3b-b467-1be31fe0c892")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 0 0)
+			(at 3.81 0 90)
 			(layer "F.Fab")
 			(uuid "0a926f9b-54ba-4ed5-91c3-77921c072580")
 			(effects
@@ -46757,7 +46757,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0)
+			(at 0 0 270)
 			(size 1.4 1.4)
 			(drill 0.7)
 			(layers "*.Cu" "*.Mask")
@@ -46767,7 +46767,7 @@
 			(uuid "837ea743-000a-4a0e-a9c3-09bcd1818e2a")
 		)
 		(pad "2" thru_hole circle
-			(at 7.62 0)
+			(at 7.62 0 270)
 			(size 1.4 1.4)
 			(drill 0.7)
 			(layers "*.Cu" "*.Mask")
@@ -46966,7 +46966,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "82ee417d-c3bf-4f37-badb-9f003650408a")
-		(at 87.1355 290.62 90)
+		(at 204.7 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D20"
@@ -49846,7 +49846,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "86ce9da3-68f4-4f70-8e4f-8cab664f96b0")
-		(at 63.667167 290.62 90)
+		(at 134.766667 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D14"
@@ -50131,7 +50131,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "873c691b-14f9-4f26-bed6-a2fa7e104df3")
-		(at 141.924667 278.253 90)
+		(at 367.877778 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW26"
@@ -50293,7 +50293,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "88aa88c1-c186-4699-964e-075792db11ec")
-		(at 188.932667 278.253 90)
+		(at 507.744444 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW38"
@@ -51088,7 +51088,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "8b5fed64-8a39-4d49-9323-6636e8cd06d7")
-		(at 63.578 278.253 90)
+		(at 134.766667 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW6"
@@ -52426,11 +52426,11 @@
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "8d6612ee-8345-4113-bb40-95d759ac021e")
-		(at 172.17 309.53)
+		(at 496.66 267.74 -90)
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R106"
-			(at 3.81 -1.92 0)
+			(at 3.81 -1.92 90)
 			(layer "F.SilkS")
 			(uuid "eab3d7e9-84dd-464b-93b7-0dc962ba2c9a")
 			(effects
@@ -52441,7 +52441,7 @@
 			)
 		)
 		(property "Value" "5K6"
-			(at 3.81 1.92 0)
+			(at 3.81 1.92 90)
 			(layer "F.Fab")
 			(uuid "47e7141e-f50f-48ba-9717-48b33a9ea23e")
 			(effects
@@ -52452,7 +52452,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e823d3d0-6470-4149-b4ce-83b9de984118")
@@ -52464,7 +52464,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5f626b43-462b-41c4-9a64-2006e66d9501")
@@ -52554,7 +52554,7 @@
 			(uuid "537688e3-00da-4c70-90aa-eb5f423b4201")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 0 0)
+			(at 3.81 0 90)
 			(layer "F.Fab")
 			(uuid "2494dd3a-b1c7-4467-b7ff-061f96867f4b")
 			(effects
@@ -52565,7 +52565,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0)
+			(at 0 0 270)
 			(size 1.4 1.4)
 			(drill 0.7)
 			(layers "*.Cu" "*.Mask")
@@ -52575,7 +52575,7 @@
 			(uuid "00a26c59-cd34-46eb-84c5-0fe6202ff86a")
 		)
 		(pad "2" thru_hole circle
-			(at 7.62 0)
+			(at 7.62 0 270)
 			(size 1.4 1.4)
 			(drill 0.7)
 			(layers "*.Cu" "*.Mask")
@@ -53166,7 +53166,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "930f4afc-9fd6-4ffb-b528-459bfaf27e36")
-		(at 118.420667 278.253 90)
+		(at 297.944444 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW20"
@@ -53720,7 +53720,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "94261e73-cc75-4faf-870f-4f9179bbf6e5")
-		(at 181.008833 290.62 90)
+		(at 484.433333 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D44"
@@ -54005,11 +54005,11 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "943c5b1d-d193-456c-9452-535509e9b8f4")
-		(at 168.4 300.8)
+		(at 521.26 309.34 -90)
 		(descr "Through hole straight pin header, 1x12, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x12 2.54mm single row")
 		(property "Reference" "J3"
-			(at 0 -2.38 0)
+			(at 0 -2.38 90)
 			(layer "F.SilkS")
 			(uuid "a67e0242-efb9-47a0-84ab-3a09b457fced")
 			(effects
@@ -54020,7 +54020,7 @@
 			)
 		)
 		(property "Value" "Conn_01x12_Pin"
-			(at 0 30.32 0)
+			(at 0 30.32 90)
 			(layer "F.Fab")
 			(uuid "6c64a1c5-4b94-4747-8c04-08f79502ffd7")
 			(effects
@@ -54031,7 +54031,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b86836a3-db94-4896-b127-55e190e968af")
@@ -54043,7 +54043,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x12, script generated"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cee9e885-88ac-4681-bb3e-4ad1af37e174")
@@ -54060,24 +54060,14 @@
 		(sheetfile "keyboard.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start -1.38 -1.38)
-			(end 0 -1.38)
+			(start -1.38 29.32)
+			(end 1.38 29.32)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b41e0f89-1f16-498d-9c79-a28a684a9c97")
-		)
-		(fp_line
-			(start -1.38 0)
-			(end -1.38 -1.38)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "93eda84c-27c3-4e32-8801-fb2e6a1de828")
+			(uuid "9804acf2-233f-43bb-b844-67115c94db2a")
 		)
 		(fp_line
 			(start -1.38 1.27)
@@ -54100,16 +54090,6 @@
 			(uuid "a71152a6-e921-4e3d-9617-0a15d46502a9")
 		)
 		(fp_line
-			(start -1.38 29.32)
-			(end 1.38 29.32)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "9804acf2-233f-43bb-b844-67115c94db2a")
-		)
-		(fp_line
 			(start 1.38 1.27)
 			(end 1.38 29.32)
 			(stroke
@@ -54120,14 +54100,24 @@
 			(uuid "de70753a-6653-4271-868e-4b8f06e91720")
 		)
 		(fp_line
-			(start -1.77 -1.77)
-			(end -1.77 29.71)
+			(start -1.38 0)
+			(end -1.38 -1.38)
 			(stroke
-				(width 0.05)
+				(width 0.12)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "88358cea-afd2-4f90-b1c5-df9f20384c7a")
+			(layer "F.SilkS")
+			(uuid "93eda84c-27c3-4e32-8801-fb2e6a1de828")
+		)
+		(fp_line
+			(start -1.38 -1.38)
+			(end 0 -1.38)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "b41e0f89-1f16-498d-9c79-a28a684a9c97")
 		)
 		(fp_line
 			(start -1.77 29.71)
@@ -54140,16 +54130,6 @@
 			(uuid "ad260c32-462c-41a3-ae41-d23df6e3162d")
 		)
 		(fp_line
-			(start 1.77 -1.77)
-			(end -1.77 -1.77)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "cefd2337-b58d-4c3c-a612-fed439e8a900")
-		)
-		(fp_line
 			(start 1.77 29.71)
 			(end 1.77 -1.77)
 			(stroke
@@ -54160,14 +54140,24 @@
 			(uuid "c4761002-64bd-45be-bca7-e5807c0e6c2f")
 		)
 		(fp_line
-			(start -1.27 -0.635)
-			(end -0.635 -1.27)
+			(start -1.77 -1.77)
+			(end -1.77 29.71)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "f7c41170-a61f-4d46-9b56-e4a53a2cbe7f")
+			(layer "F.CrtYd")
+			(uuid "88358cea-afd2-4f90-b1c5-df9f20384c7a")
+		)
+		(fp_line
+			(start 1.77 -1.77)
+			(end -1.77 -1.77)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "cefd2337-b58d-4c3c-a612-fed439e8a900")
 		)
 		(fp_line
 			(start -1.27 29.21)
@@ -54178,6 +54168,26 @@
 			)
 			(layer "F.Fab")
 			(uuid "b2c9eff1-5ea2-4ab6-8055-1112b32083be")
+		)
+		(fp_line
+			(start 1.27 29.21)
+			(end -1.27 29.21)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "d221cea4-06f6-4393-a156-f7d7d41d7ef6")
+		)
+		(fp_line
+			(start -1.27 -0.635)
+			(end -0.635 -1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "f7c41170-a61f-4d46-9b56-e4a53a2cbe7f")
 		)
 		(fp_line
 			(start -0.635 -1.27)
@@ -54199,18 +54209,8 @@
 			(layer "F.Fab")
 			(uuid "03085aee-9fe1-4f5a-bf2c-ac19db5cdcd1")
 		)
-		(fp_line
-			(start 1.27 29.21)
-			(end -1.27 29.21)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "d221cea4-06f6-4393-a156-f7d7d41d7ef6")
-		)
 		(fp_text user "${REFERENCE}"
-			(at 0 13.97 90)
+			(at 0 13.97 0)
 			(layer "F.Fab")
 			(uuid "247fd461-79cc-4ba3-9048-881846d76a42")
 			(effects
@@ -54221,7 +54221,7 @@
 			)
 		)
 		(pad "1" thru_hole rect
-			(at 0 0)
+			(at 0 0 270)
 			(size 1.7 1.7)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -54232,7 +54232,7 @@
 			(uuid "5978efc1-34d7-4d8a-9ef6-5a9b3df9f0e5")
 		)
 		(pad "2" thru_hole circle
-			(at 0 2.54)
+			(at 0 2.54 270)
 			(size 1.7 1.7)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -54243,7 +54243,7 @@
 			(uuid "e69df95e-85b2-49d8-a78d-5d6bf271c16a")
 		)
 		(pad "3" thru_hole circle
-			(at 0 5.08)
+			(at 0 5.08 270)
 			(size 1.7 1.7)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -54254,7 +54254,7 @@
 			(uuid "d5a63521-2159-438f-b309-d1efcbca9f9d")
 		)
 		(pad "4" thru_hole circle
-			(at 0 7.62)
+			(at 0 7.62 270)
 			(size 1.7 1.7)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -54265,7 +54265,7 @@
 			(uuid "c2500f3e-66d5-4598-bc34-de49eb9813ee")
 		)
 		(pad "5" thru_hole circle
-			(at 0 10.16)
+			(at 0 10.16 270)
 			(size 1.7 1.7)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -54276,7 +54276,7 @@
 			(uuid "3115fcfd-2ac4-440e-a723-c5fd12e8a20c")
 		)
 		(pad "6" thru_hole circle
-			(at 0 12.7)
+			(at 0 12.7 270)
 			(size 1.7 1.7)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -54287,7 +54287,7 @@
 			(uuid "3881e34b-03cd-416c-80ab-64f5de2ab194")
 		)
 		(pad "7" thru_hole circle
-			(at 0 15.24)
+			(at 0 15.24 270)
 			(size 1.7 1.7)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -54298,7 +54298,7 @@
 			(uuid "ce1579f2-352a-4de5-ad73-c3413eb7784e")
 		)
 		(pad "8" thru_hole circle
-			(at 0 17.78)
+			(at 0 17.78 270)
 			(size 1.7 1.7)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -54309,7 +54309,7 @@
 			(uuid "ec071ef5-ef78-480d-b104-471cd6159969")
 		)
 		(pad "9" thru_hole circle
-			(at 0 20.32)
+			(at 0 20.32 270)
 			(size 1.7 1.7)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -54320,7 +54320,7 @@
 			(uuid "35285578-c6d1-4fc0-8a72-30bc29d0f032")
 		)
 		(pad "10" thru_hole circle
-			(at 0 22.86)
+			(at 0 22.86 270)
 			(size 1.7 1.7)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -54331,7 +54331,7 @@
 			(uuid "aef9d65a-b088-4fba-86b6-cebc0fca98f4")
 		)
 		(pad "11" thru_hole circle
-			(at 0 25.4)
+			(at 0 25.4 270)
 			(size 1.7 1.7)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -54342,7 +54342,7 @@
 			(uuid "a0f1bcc8-d7ee-4c3a-bcd0-5d6872a8385d")
 		)
 		(pad "12" thru_hole circle
-			(at 0 27.94)
+			(at 0 27.94 270)
 			(size 1.7 1.7)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -54368,7 +54368,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "952dea12-b2ba-478c-9059-5ceb69a283e7")
-		(at 110.603833 290.62 90)
+		(at 274.633333 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D26"
@@ -56122,7 +56122,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "98f32481-c031-439f-a37b-17b8e2caa186")
-		(at 169.274667 290.62 90)
+		(at 449.466667 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D41"
@@ -56581,7 +56581,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "99567e91-0e9d-4720-afaf-8528fa4c4a62")
-		(at 126.249389 290.62 90)
+		(at 321.255556 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D30"
@@ -56866,11 +56866,11 @@
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "9d1cc864-f50b-49af-a04d-c860bfd860cc")
-		(at 172.17 300.08)
+		(at 499.06 275.36 90)
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R73"
-			(at 3.81 -1.92 0)
+			(at 3.81 -1.92 90)
 			(layer "F.SilkS")
 			(uuid "84b7a852-91fb-4ac4-836c-ac50e1252534")
 			(effects
@@ -56881,7 +56881,7 @@
 			)
 		)
 		(property "Value" "33R"
-			(at 3.81 1.92 0)
+			(at 3.81 1.92 90)
 			(layer "F.Fab")
 			(uuid "41db7c56-98a1-4431-a2f0-189c842f3ae3")
 			(effects
@@ -56892,7 +56892,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "63283c61-5788-4b28-af5a-949234379cef")
@@ -56904,7 +56904,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8f3ff564-4761-4ac0-9435-bcff67dcfe80")
@@ -56921,16 +56921,6 @@
 		(sheetfile "keyboard.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 0.94 0)
-			(end 1.89 0)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "d6101cf9-a449-4ca4-9de4-63bf74b7caec")
-		)
-		(fp_line
 			(start 6.68 0)
 			(end 5.73 0)
 			(stroke
@@ -56939,6 +56929,16 @@
 			)
 			(layer "F.SilkS")
 			(uuid "3c80720c-0b38-4547-b2df-df2d9637dbab")
+		)
+		(fp_line
+			(start 0.94 0)
+			(end 1.89 0)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "d6101cf9-a449-4ca4-9de4-63bf74b7caec")
 		)
 		(fp_rect
 			(start 1.89 -0.92)
@@ -56963,16 +56963,6 @@
 			(uuid "19d0baee-ab5a-4ded-a92e-218852e1537f")
 		)
 		(fp_line
-			(start 0 0)
-			(end 2.01 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "7bbff6a1-dfec-4527-b58a-e571ab5bc94a")
-		)
-		(fp_line
 			(start 7.62 0)
 			(end 5.61 0)
 			(stroke
@@ -56981,6 +56971,16 @@
 			)
 			(layer "F.Fab")
 			(uuid "9316a246-22f8-49cd-88ec-9270c303b50b")
+		)
+		(fp_line
+			(start 0 0)
+			(end 2.01 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "7bbff6a1-dfec-4527-b58a-e571ab5bc94a")
 		)
 		(fp_rect
 			(start 2.01 -0.8)
@@ -56994,7 +56994,7 @@
 			(uuid "2af30f96-0bf3-4ac7-8261-ab4133b4cab3")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 0 0)
+			(at 3.81 0 90)
 			(layer "F.Fab")
 			(uuid "844a15cc-5425-4842-adf5-1cebe6707b0d")
 			(effects
@@ -57005,7 +57005,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0)
+			(at 0 0 90)
 			(size 1.4 1.4)
 			(drill 0.7)
 			(layers "*.Cu" "*.Mask")
@@ -57015,7 +57015,7 @@
 			(uuid "ef53857d-f3be-412a-8ae3-6e0b17aca33e")
 		)
 		(pad "2" thru_hole circle
-			(at 7.62 0)
+			(at 7.62 0 90)
 			(size 1.4 1.4)
 			(drill 0.7)
 			(layers "*.Cu" "*.Mask")
@@ -57040,7 +57040,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "9d4425ab-a07a-4596-8c9f-11e15372e20e")
-		(at 157.5405 290.62 90)
+		(at 414.5 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D38"
@@ -57325,7 +57325,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "9d4e0753-a8c8-453d-ba80-d6c31e8a4dc3")
-		(at 122.338 290.62 90)
+		(at 309.6 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D29"
@@ -58185,7 +58185,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a0f043a4-2469-424f-94d4-927ad9ec61a0")
-		(at 153.629111 290.62 90)
+		(at 402.844444 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D37"
@@ -58470,7 +58470,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "a119cc74-8b27-4aeb-b8f7-d10c6c05deae")
-		(at 161.511333 278.253 90)
+		(at 426.155556 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW31"
@@ -58806,7 +58806,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a3ebf4c2-8709-4588-a8c1-f83819ff1db3")
-		(at 141.894944 290.62 90)
+		(at 367.877778 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D34"
@@ -59091,7 +59091,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a41e5fff-0149-44b5-b6a9-d3c63da4d1d1")
-		(at 106.692444 290.62 90)
+		(at 262.977778 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D25"
@@ -59724,7 +59724,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "a5276480-fdc4-40d5-bf39-ca55d811198b")
-		(at 192.85 278.253 90)
+		(at 519.4 246.8 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW39"
@@ -59886,7 +59886,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "a5530d17-a6ca-4290-909f-9ea61c2878e5")
-		(at 138.007333 278.253 90)
+		(at 356.222222 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW25"
@@ -63221,7 +63221,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "aacb95ef-71b7-4a27-b794-d0e2a1fe3ddf")
-		(at 71.412667 278.253 90)
+		(at 158.077778 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW8"
@@ -63383,7 +63383,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "ac8ee395-7158-4938-aad6-0e03d99d0346")
-		(at 55.743333 278.253 90)
+		(at 111.455556 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW4"
@@ -63836,7 +63836,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "ad7ef7dc-e671-43c8-bbd5-27469118781b")
-		(at 134.072167 290.62 90)
+		(at 344.566667 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D32"
@@ -65628,7 +65628,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "b2d61aa4-6fa7-4be3-9f2c-ed4f9107514f")
-		(at 185.015333 278.253 90)
+		(at 496.088889 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW37"
@@ -66807,7 +66807,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "b812f654-b110-4b1c-aeab-84525d92db4a")
-		(at 134.09 278.253 90)
+		(at 344.566667 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW24"
@@ -67722,7 +67722,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "b9b94aa3-8321-4c4b-a807-87fe101f9e99")
-		(at 157.594 278.253 90)
+		(at 414.5 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW30"
@@ -68232,7 +68232,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "baf8ff97-a6c9-4e26-93a9-ac9d74af165f")
-		(at 98.869667 290.62 90)
+		(at 239.666667 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D23"
@@ -69769,11 +69769,11 @@
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "bf282d8d-8ef3-46e3-bacb-8223814262b5")
-		(at 172.17 315.83)
+		(at 491.66 267.74 -90)
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R108"
-			(at 3.81 -1.92 0)
+			(at 3.81 -1.92 90)
 			(layer "F.SilkS")
 			(uuid "ecedf6a5-beab-4749-b762-20bad75110a5")
 			(effects
@@ -69784,7 +69784,7 @@
 			)
 		)
 		(property "Value" "5K6"
-			(at 3.81 1.92 0)
+			(at 3.81 1.92 90)
 			(layer "F.Fab")
 			(uuid "62ccbb76-276f-4eff-8566-a0e8e09f666a")
 			(effects
@@ -69795,7 +69795,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1c3904ac-d65f-44b2-9ba5-902d37f78bfa")
@@ -69807,7 +69807,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "121af312-a05b-4630-ac67-efdbba6af8db")
@@ -69897,7 +69897,7 @@
 			(uuid "d525a0c6-1b57-4123-997a-ca5c5f0947e0")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 0 0)
+			(at 3.81 0 90)
 			(layer "F.Fab")
 			(uuid "259040f1-c391-49e4-b525-9057eaeb47a2")
 			(effects
@@ -69908,7 +69908,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0)
+			(at 0 0 270)
 			(size 1.4 1.4)
 			(drill 0.7)
 			(layers "*.Cu" "*.Mask")
@@ -69918,7 +69918,7 @@
 			(uuid "e244344c-9dd3-4ab8-a3ee-1d4fea5c3e46")
 		)
 		(pad "2" thru_hole circle
-			(at 7.62 0)
+			(at 7.62 0 270)
 			(size 1.4 1.4)
 			(drill 0.7)
 			(layers "*.Cu" "*.Mask")
@@ -70117,7 +70117,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "c0ccf30b-419e-45b7-af51-6771b7288640")
-		(at 94.916667 278.253 90)
+		(at 228.011111 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW14"
@@ -70279,7 +70279,7 @@
 	(footprint "Potentiometer_THT:Potentiometer_Bourns_3339P_Vertical_HandSoldering"
 		(layer "F.Cu")
 		(uuid "c267c282-358e-4b2f-b3fe-83268be12ecf")
-		(at 185.89 305.63)
+		(at 447.8 310.68)
 		(descr "Potentiometer, vertical, Bourns 3339P, hand-soldering, http://www.bourns.com/docs/Product-Datasheets/3339.pdf")
 		(tags "Potentiometer vertical Bourns 3339P hand-soldering")
 		(property "Reference" "RT23"
@@ -70488,7 +70488,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "c2ffd8a9-4668-4052-acd4-c1dd1f002359")
-		(at 130.172667 278.253 90)
+		(at 332.911111 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW23"
@@ -71033,7 +71033,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "c9f4de9e-4fab-46dd-86c5-28a97b584e81")
-		(at 106.668667 278.253 90)
+		(at 262.977778 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW17"
@@ -71761,7 +71761,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "cd239dff-1364-493f-bacb-27d8af208ac4")
-		(at 173.263333 278.253 90)
+		(at 461.122222 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW34"
@@ -71923,7 +71923,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "cf011050-5918-467a-a3e9-1c250462e41a")
-		(at 67.578556 290.62 90)
+		(at 146.422222 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D15"
@@ -72676,7 +72676,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "d1c3221e-7938-4930-8c69-3f77e7a078d3")
-		(at 122.338 278.253 90)
+		(at 309.6 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW21"
@@ -72838,7 +72838,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "d200628e-dece-414e-a001-c0175a27b74d")
-		(at 181.098 278.253 90)
+		(at 484.433333 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW36"
@@ -73174,7 +73174,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "d42271a5-f7ea-4062-97eb-ba24eaa28002")
-		(at 145.842 278.253 90)
+		(at 379.533333 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW27"
@@ -78490,7 +78490,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "dd836db9-255f-49b6-bfe9-3ef6d0a5b824")
-		(at 59.755778 290.62 90)
+		(at 123.111111 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D13"
@@ -79060,7 +79060,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "debe2d6d-dc65-4619-8429-fd9987eb400b")
-		(at 91.046889 290.62 90)
+		(at 216.355556 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D21"
@@ -79630,7 +79630,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "df3548b4-6f63-4231-ae73-6b61703f2008")
-		(at 177.180667 278.253 90)
+		(at 472.777778 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW35"
@@ -80497,7 +80497,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "e2bcf4b1-cfa0-4dd4-9950-86ac91f1fc2d")
-		(at 184.920222 290.62 90)
+		(at 496.088889 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D45"
@@ -81972,7 +81972,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "e73e9b97-23c2-401e-82ad-8bf42e9fdb20")
-		(at 75.33 278.253 90)
+		(at 169.733333 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW9"
@@ -82308,7 +82308,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "e996583f-4fe9-460d-9eb2-17f830c78a47")
-		(at 110.586 278.253 90)
+		(at 274.633333 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW18"
@@ -82470,7 +82470,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "e9d24a37-806e-427e-9626-5bd3f9cac57d")
-		(at 67.495333 278.253 90)
+		(at 146.422222 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW7"
@@ -83662,7 +83662,7 @@
 	(footprint "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 		(layer "F.Cu")
 		(uuid "f07f6aa3-fb97-4025-99b8-725465acca4e")
-		(at 59.660667 278.253 90)
+		(at 123.111111 246.853 90)
 		(descr "Jumper 30.48mm pitch 1.2mm hole diameter, Alternate KiCad Library")
 		(tags "Jumper 30.48mm")
 		(property "Reference" "SW5"
@@ -84987,7 +84987,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "f7da9232-fa57-4e9c-bca2-00ecb3e3b673")
-		(at 173.186056 290.62 90)
+		(at 461.122222 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D42"
@@ -85272,7 +85272,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "f83dfa07-2baf-4347-bf4e-13e323e8c8ac")
-		(at 118.426611 290.62 90)
+		(at 297.944444 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D28"
@@ -86297,7 +86297,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "feb5d3de-e51d-4f04-a58f-d30e0bc7333f")
-		(at 94.958278 290.62 90)
+		(at 228.011111 259.22 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D22"
