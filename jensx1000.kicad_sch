@@ -150,12 +150,6 @@
 		(uuid "9aa64b6a-9255-41c7-bd03-9c496fca17a3")
 	)
 	(junction
-		(at 49.53 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b8e66b1c-f4af-4047-84d8-74b8a21ecd30")
-	)
-	(junction
 		(at 57.15 22.86)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -386,16 +380,6 @@
 			(type default)
 		)
 		(uuid "270d9ae6-0bca-43f3-9482-207446498512")
-	)
-	(wire
-		(pts
-			(xy 49.53 80.01) (xy 49.53 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2aa29df7-f36e-432a-aff4-223e248899f5")
 	)
 	(wire
 		(pts
@@ -669,6 +653,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 77.47) (xy 106.68 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bc76b4c-a30e-4d71-ae5e-eb8b35a29fb3")
+	)
+	(wire
+		(pts
 			(xy 114.3 118.11) (xy 114.3 161.29)
 		)
 		(stroke
@@ -776,16 +770,6 @@
 			(type default)
 		)
 		(uuid "6fd1da95-4e67-4b52-81c2-780c2d883702")
-	)
-	(wire
-		(pts
-			(xy 106.68 153.67) (xy 106.68 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "76552459-01ec-4bcc-bf24-040c1c065216")
 	)
 	(wire
 		(pts
@@ -1149,7 +1133,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 30.48) (xy 49.53 80.01)
+			(xy 49.53 30.48) (xy 49.53 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1186,16 +1170,6 @@
 			(type default)
 		)
 		(uuid "b23a9c01-2082-4994-aab9-403e2cb349ce")
-	)
-	(wire
-		(pts
-			(xy 49.53 80.01) (xy 71.12 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b25e93a7-4479-4f68-acc7-c765156f8e1d")
 	)
 	(wire
 		(pts
@@ -1296,16 +1270,6 @@
 			(type default)
 		)
 		(uuid "bc39baba-0b81-42e4-b758-f625ec465bfc")
-	)
-	(wire
-		(pts
-			(xy 106.68 107.95) (xy 104.14 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bc4bd516-e40d-4ad1-a4ca-bdc4a5280ef1")
 	)
 	(wire
 		(pts
@@ -1506,6 +1470,16 @@
 			(type default)
 		)
 		(uuid "e2cb68bf-c25d-4398-830a-b491ca84ef91")
+	)
+	(wire
+		(pts
+			(xy 106.68 77.47) (xy 104.14 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee6bced0-f357-4f69-86a9-3d8e990b8ffc")
 	)
 	(wire
 		(pts
@@ -1893,16 +1867,6 @@
 				(justify left)
 			)
 		)
-		(pin "GLIDE" output
-			(at 104.14 107.95 0)
-			(uuid "3b00d70f-ade8-40ca-8bc3-db89cc9ed384")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
 		(instances
 			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944"
@@ -1955,16 +1919,6 @@
 				(justify left)
 			)
 		)
-		(pin "-12V" input
-			(at 71.12 80.01 180)
-			(uuid "78df1ef2-73de-4078-93c5-09f30b5ea9da")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "GND" input
 			(at 71.12 77.47 180)
 			(uuid "8482f3d1-cd26-4c47-b4c9-90a5b432ce27")
@@ -1978,6 +1932,16 @@
 		(pin "NOISE_OUT" output
 			(at 104.14 73.66 0)
 			(uuid "a5c4f5b6-2f55-477d-b31a-fc4894ef12f8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GLIDE" output
+			(at 104.14 77.47 0)
+			(uuid "95b8471f-c22f-494e-9f0d-3978d9ed9004")
 			(effects
 				(font
 					(size 1.27 1.27)

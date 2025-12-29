@@ -5101,7 +5101,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 39.37) (xy 34.29 39.37)
+			(xy 27.94 36.83) (xy 34.29 36.83)
 		)
 		(stroke
 			(width 0)
@@ -5111,7 +5111,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 36.83) (xy 34.29 36.83)
+			(xy 27.94 39.37) (xy 34.29 39.37)
 		)
 		(stroke
 			(width 0)
@@ -5920,7 +5920,7 @@
 		(uuid "b7aa5fbb-5b6d-4d73-b5c5-0ab25ccd75e9")
 	)
 	(label "CLOCK"
-		(at 27.94 36.83 0)
+		(at 27.94 39.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6040,7 +6040,7 @@
 		(uuid "dbe1e5ab-2d9e-42b0-9d96-5f7c7729b748")
 	)
 	(label "DC"
-		(at 27.94 39.37 0)
+		(at 27.94 36.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6121,7 +6121,7 @@
 	)
 	(hierarchical_label "DC"
 		(shape output)
-		(at 34.29 39.37 0)
+		(at 34.29 36.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6165,7 +6165,7 @@
 	)
 	(hierarchical_label "CLOCK"
 		(shape input)
-		(at 34.29 36.83 0)
+		(at 34.29 39.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
