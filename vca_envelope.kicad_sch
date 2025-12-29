@@ -5246,7 +5246,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
 			(at 63.5 97.79 0)
 			(effects
 				(font
@@ -5418,7 +5418,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline_Wide"
 			(at 151.13 52.705 0)
 			(effects
 				(font
@@ -6029,7 +6029,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 169.672 128.27 90)
 			(effects
 				(font
@@ -6097,7 +6097,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 			(at 137.16 100.838 90)
 			(effects
 				(font
@@ -6299,7 +6299,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 169.672 68.58 90)
 			(effects
 				(font
@@ -7407,7 +7407,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 189.992 92.71 90)
 			(effects
 				(font
@@ -7673,7 +7673,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
 			(at 85.09 116.84 0)
 			(effects
 				(font
@@ -7931,7 +7931,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
 			(at 85.09 100.33 0)
 			(effects
 				(font
@@ -8328,7 +8328,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
 			(at 111.76 130.81 0)
 			(effects
 				(font
@@ -8434,7 +8434,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 			(at 129.032 44.45 90)
 			(effects
 				(font
@@ -8640,7 +8640,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
 			(at 248.92 44.45 0)
 			(effects
 				(font
@@ -8944,7 +8944,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 			(at 129.032 57.15 90)
 			(effects
 				(font
@@ -9014,7 +9014,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 			(at 61.722 127 90)
 			(effects
 				(font
