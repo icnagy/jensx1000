@@ -3802,7 +3802,7 @@
 	)
 	(text "RELEASE"
 		(exclude_from_sim no)
-		(at 177.038 135.89 0)
+		(at 165.862 133.35 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3915,7 +3915,7 @@
 		(uuid "dd9c8db2-ffbe-4556-895d-13b6fb319fa3")
 	)
 	(no_connect
-		(at 171.45 144.78)
+		(at 171.45 132.08)
 		(uuid "191784b9-821b-4c37-814d-fa5ec8da40a6")
 	)
 	(no_connect
@@ -4446,16 +4446,6 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 132.08) (xy 171.45 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "763b90a0-5fe7-47db-ba87-f845f165445c")
-	)
-	(wire
-		(pts
 			(xy 171.45 99.06) (xy 171.45 102.87)
 		)
 		(stroke
@@ -4686,6 +4676,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 132.08) (xy 176.53 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad49f03f-d881-4d93-9f4e-0eab01ffd161")
+	)
+	(wire
+		(pts
 			(xy 148.59 58.42) (xy 162.56 58.42)
 		)
 		(stroke
@@ -4776,7 +4776,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 140.97) (xy 175.26 140.97)
+			(xy 176.53 128.27) (xy 175.26 128.27)
 		)
 		(stroke
 			(width 0)
@@ -4856,7 +4856,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 144.78) (xy 176.53 140.97)
+			(xy 176.53 144.78) (xy 176.53 139.7)
 		)
 		(stroke
 			(width 0)
@@ -5941,7 +5941,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 171.45 128.27 0)
+		(at 176.53 135.89 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5950,7 +5950,7 @@
 		(fields_autoplaced yes)
 		(uuid "33bc6e3a-cbce-41ea-9eb7-5b85b949d26e")
 		(property "Reference" "R30"
-			(at 173.99 126.9999 0)
+			(at 179.07 134.6199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5959,7 +5959,7 @@
 			)
 		)
 		(property "Value" "1K"
-			(at 173.99 129.5399 0)
+			(at 179.07 137.1599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5968,7 +5968,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
-			(at 169.672 128.27 90)
+			(at 174.752 135.89 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5977,7 +5977,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 128.27 0)
+			(at 176.53 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5986,7 +5986,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 171.45 128.27 0)
+			(at 176.53 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6659,15 +6659,16 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer")
-		(at 171.45 140.97 0)
+		(at 171.45 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "6f59ba56-06ce-43e9-a1b0-d773f90d6364")
 		(property "Reference" "RV12"
-			(at 168.91 139.6999 0)
+			(at 168.91 126.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6676,7 +6677,7 @@
 			)
 		)
 		(property "Value" "2M2B"
-			(at 168.91 142.2399 0)
+			(at 168.91 129.5399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6685,7 +6686,7 @@
 			)
 		)
 		(property "Footprint" "Potentiometer_THT:Potentiometer_Omeg_PC16BU_Vertical"
-			(at 171.45 140.97 0)
+			(at 171.45 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6694,7 +6695,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 140.97 0)
+			(at 171.45 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6703,7 +6704,7 @@
 			)
 		)
 		(property "Description" "Potentiometer"
-			(at 171.45 140.97 0)
+			(at 171.45 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
