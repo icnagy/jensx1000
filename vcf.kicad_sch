@@ -2588,6 +2588,256 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:+15V"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+15V"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+15V\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+15V_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+15V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:+5V"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+5V"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+5V\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+5V_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+5V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:-12V"
 			(power)
 			(pin_numbers
@@ -4261,6 +4511,16 @@
 	)
 	(wire
 		(pts
+			(xy 26.67 114.3) (xy 30.48 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9de48766-da4f-46f3-b95e-4057f63a9e0a")
+	)
+	(wire
+		(pts
 			(xy 208.28 53.34) (xy 219.71 53.34)
 		)
 		(stroke
@@ -4721,6 +4981,16 @@
 	)
 	(wire
 		(pts
+			(xy 41.91 22.86) (xy 48.26 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7447c27-add0-4265-985d-578ee90b5666")
+	)
+	(wire
+		(pts
 			(xy 120.65 43.18) (xy 58.42 43.18)
 		)
 		(stroke
@@ -4831,6 +5101,16 @@
 	)
 	(wire
 		(pts
+			(xy 57.15 22.86) (xy 59.69 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4b050ef-2a9a-46cd-8e78-76f2e7a69f3a")
+	)
+	(wire
+		(pts
 			(xy 280.67 142.24) (xy 274.32 142.24)
 		)
 		(stroke
@@ -4858,16 +5138,6 @@
 			(type default)
 		)
 		(uuid "e6b4fa9e-a7eb-4c98-8df0-ea8e3a527c09")
-	)
-	(wire
-		(pts
-			(xy 26.67 114.3) (xy 30.48 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e709b096-af03-4ce0-9f39-ad023e9bbb1c")
 	)
 	(wire
 		(pts
@@ -5009,6 +5279,26 @@
 		)
 		(uuid "ff97fc98-7b5f-46d0-bf21-f20e229fb9a9")
 	)
+	(label "GATE"
+		(at 26.67 104.14 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4f1a0c4c-2971-46d7-a2b7-8ff4a482fd69")
+	)
+	(label "TRIGGER"
+		(at 26.67 114.3 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "695ec547-1fa5-43cc-bf71-c3841e8ab5f7")
+	)
 	(hierarchical_label "VCF_INPUT"
 		(shape input)
 		(at 26.67 116.84 180)
@@ -5077,7 +5367,7 @@
 	)
 	(hierarchical_label "+5V"
 		(shape input)
-		(at 26.67 127 180)
+		(at 26.67 121.92 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5086,16 +5376,16 @@
 		)
 		(uuid "478bb5b8-4328-4bff-9151-841f31d6144b")
 	)
-	(hierarchical_label "TRIGGER"
+	(hierarchical_label "+15V"
 		(shape input)
-		(at 26.67 124.46 180)
+		(at 57.15 22.86 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "56dd86b4-5167-4f97-b678-f8d1fef0a4b0")
+		(uuid "63f044c5-c463-4232-bd02-7e9b93a4e088")
 	)
 	(hierarchical_label "VCF_ENV_INPUT"
 		(shape input)
@@ -5121,7 +5411,7 @@
 	)
 	(hierarchical_label "LFO_IN"
 		(shape input)
-		(at 26.67 114.3 180)
+		(at 46.99 124.46 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5143,7 +5433,7 @@
 	)
 	(hierarchical_label "+15V"
 		(shape input)
-		(at 26.67 111.76 180)
+		(at 26.67 119.38 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5196,20 +5486,20 @@
 		)
 		(uuid "e3843c61-3081-4dc3-9503-86bc8b530f61")
 	)
-	(hierarchical_label "GATE"
+	(hierarchical_label "+5V"
 		(shape input)
-		(at 26.67 104.14 180)
+		(at 41.91 22.86 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "ef3a84bd-ab4c-41d8-a8db-25ac103c9fbe")
+		(uuid "ea5a7690-c043-4c9a-9667-b44279cab15a")
 	)
 	(hierarchical_label "VCF_OUT"
 		(shape output)
-		(at 26.67 121.92 180)
+		(at 26.67 111.76 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5312,7 +5602,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 			(at 144.018 127 90)
 			(effects
 				(font
@@ -5626,7 +5916,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 			(at 72.39 68.072 90)
 			(effects
 				(font
@@ -6373,15 +6663,15 @@
 	(symbol
 		(lib_id "Device:R_Potentiometer_Trim")
 		(at 207.01 144.78 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "27039ef9-d924-4574-95b9-499b9a4bd6b8")
 		(property "Reference" "RT14"
-			(at 204.47 143.5099 0)
+			(at 204.47 146.0501 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6390,7 +6680,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 204.47 146.0499 0)
+			(at 204.47 143.5101 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6974,7 +7264,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 			(at 191.262 116.84 90)
 			(effects
 				(font
@@ -7895,11 +8185,13 @@
 	(symbol
 		(lib_id "Device:R_Potentiometer_Trim")
 		(at 104.14 168.91 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "5731927d-baf3-458b-a344-40196511f91f")
 		(property "Reference" "RT18"
 			(at 101.6 167.6399 0)
@@ -8386,7 +8678,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 			(at 160.02 104.648 90)
 			(effects
 				(font
@@ -9027,7 +9319,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 			(at 78.232 78.74 90)
 			(effects
 				(font
@@ -9403,6 +9695,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 48.26 22.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8fc7a08e-9029-4778-a473-430357b8cf9c")
+		(property "Reference" "#PWR0169"
+			(at 48.26 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 48.26 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 48.26 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 48.26 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cf6fbebb-27a2-4236-aacd-34862db31f42")
+		)
+		(instances
+			(project "jensx1000"
+				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/d9898a3a-269c-4039-8ec7-38b9f7f4aab4"
+					(reference "#PWR0169")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 185.42 69.85 270)
 		(unit 1)
@@ -9562,7 +9920,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 			(at 128.27 69.342 90)
 			(effects
 				(font
@@ -9698,7 +10056,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 			(at 181.61 104.648 90)
 			(effects
 				(font
@@ -11389,6 +11747,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+15V")
+		(at 59.69 22.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "daa70449-1d5c-415e-aad4-fb84e2cc85ef")
+		(property "Reference" "#PWR0170"
+			(at 59.69 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+15V"
+			(at 59.69 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 59.69 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 59.69 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+15V\""
+			(at 59.69 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fd2a981f-af2a-4349-be4d-0e0f0b1806d6")
+		)
+		(instances
+			(project "jensx1000"
+				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/d9898a3a-269c-4039-8ec7-38b9f7f4aab4"
+					(reference "#PWR0170")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 203.2 53.34 90)
 		(unit 1)
@@ -11753,7 +12177,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 			(at 134.112 78.74 90)
 			(effects
 				(font
@@ -12003,8 +12427,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer")
-		(at 162.56 153.67 0)
-		(mirror y)
+		(at 162.56 153.67 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12012,7 +12435,7 @@
 		(dnp no)
 		(uuid "edef8114-c5c2-4950-9a60-6c97f250db26")
 		(property "Reference" "RV15"
-			(at 165.1 152.3999 0)
+			(at 165.1 154.9401 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12021,7 +12444,7 @@
 			)
 		)
 		(property "Value" "100kA"
-			(at 165.1 154.9399 0)
+			(at 165.1 152.4001 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12165,7 +12588,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 			(at 88.9 55.118 90)
 			(effects
 				(font
