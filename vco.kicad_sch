@@ -5245,12 +5245,6 @@
 		(uuid "1e7525f4-5a98-47eb-9428-3990dfada1fd")
 	)
 	(junction
-		(at 54.61 26.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "22990f7f-5975-4c73-b83f-b8126e530571")
-	)
-	(junction
 		(at 284.48 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5261,6 +5255,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4283f99b-5fb0-48b5-a149-98dddf4ff388")
+	)
+	(junction
+		(at 87.63 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "46437c00-c37a-43a8-a2a6-6bf3c38421a0")
 	)
 	(junction
 		(at 280.67 82.55)
@@ -6890,7 +6890,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 25.4) (xy 54.61 26.67)
+			(xy 54.61 25.4) (xy 54.61 27.94)
 		)
 		(stroke
 			(width 0)
@@ -7000,6 +7000,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 30.48) (xy 73.66 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a695160-3acd-41e5-8779-7b6b39fb80a8")
+	)
+	(wire
+		(pts
 			(xy 393.7 200.66) (xy 386.08 200.66)
 		)
 		(stroke
@@ -7090,7 +7100,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 26.67) (xy 87.63 33.02)
+			(xy 87.63 26.67) (xy 87.63 27.94)
 		)
 		(stroke
 			(width 0)
@@ -7267,6 +7277,16 @@
 			(type default)
 		)
 		(uuid "a1494918-2f3b-4fb3-9db2-9755d340d3ab")
+	)
+	(wire
+		(pts
+			(xy 73.66 27.94) (xy 87.63 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2107004-4350-4a9d-80df-bdb580621e6b")
 	)
 	(wire
 		(pts
@@ -8040,6 +8060,16 @@
 	)
 	(wire
 		(pts
+			(xy 87.63 27.94) (xy 87.63 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d671a4f2-a72c-4ccc-aa7b-78aaf6b66a1f")
+	)
+	(wire
+		(pts
 			(xy 275.59 167.64) (xy 278.13 167.64)
 		)
 		(stroke
@@ -8230,16 +8260,6 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 26.67) (xy 73.66 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e57330c8-1180-4c04-86e6-618a552bef00")
-	)
-	(wire
-		(pts
 			(xy 156.21 130.81) (xy 156.21 132.08)
 		)
 		(stroke
@@ -8290,16 +8310,6 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 30.48) (xy 73.66 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eb067dff-733e-46ec-9b5d-e12a97c6eacc")
-	)
-	(wire
-		(pts
 			(xy 24.13 177.8) (xy 30.48 177.8)
 		)
 		(stroke
@@ -8317,16 +8327,6 @@
 			(type default)
 		)
 		(uuid "ee002ef7-fcc2-43b1-a39e-03e4487f7a24")
-	)
-	(wire
-		(pts
-			(xy 54.61 26.67) (xy 54.61 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ee21bb64-d208-45e1-9830-64a15825ad25")
 	)
 	(wire
 		(pts
@@ -8598,6 +8598,27 @@
 		)
 		(uuid "54350948-f177-40a0-9b41-5201ea1210f4")
 	)
+	(label "LFO_OUT"
+		(at 24.13 213.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "628be1e7-8c80-4282-97e4-20aaa0be452d")
+		(property "Netclass" "LFO_OUT"
+			(at 24.13 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify right)
+			)
+		)
+	)
 	(label "DC"
 		(at 26.67 49.53 0)
 		(effects
@@ -8793,17 +8814,6 @@
 			(justify right)
 		)
 		(uuid "4806a3d6-d829-4973-bb35-32f9d2aeef2d")
-	)
-	(hierarchical_label "LFO_OUT"
-		(shape output)
-		(at 24.13 213.36 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "51867acf-1b18-4566-9167-66b256cfbb23")
 	)
 	(hierarchical_label "GND"
 		(shape input)
@@ -9335,7 +9345,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 			(at 45.72 102.108 90)
 			(effects
 				(font
@@ -11125,6 +11135,7 @@
 	(symbol
 		(lib_id "Device:R_Potentiometer_Trim")
 		(at 266.7 124.46 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11132,7 +11143,7 @@
 		(dnp no)
 		(uuid "3fbca96e-77be-4c31-b210-abf068097cb3")
 		(property "Reference" "RT27"
-			(at 264.16 123.1899 0)
+			(at 264.16 125.7301 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11141,7 +11152,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 264.16 125.7299 0)
+			(at 264.16 123.1901 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12850,13 +12861,13 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer_Trim")
-		(at 299.72 124.46 90)
+		(at 299.72 124.46 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7839c5b1-b169-4060-9c5d-a77d43d8983b")
 		(property "Reference" "RT28"
 			(at 299.72 128.27 90)
@@ -13884,7 +13895,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 			(at 35.56 102.108 90)
 			(effects
 				(font
@@ -14146,8 +14157,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer_Trim")
-		(at 59.69 100.33 0)
-		(mirror y)
+		(at 59.69 100.33 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14155,7 +14165,7 @@
 		(dnp no)
 		(uuid "9ee0c6dc-3d6a-48d9-ac52-bdbc1487def6")
 		(property "Reference" "RT21"
-			(at 62.23 99.0599 0)
+			(at 62.23 101.6001 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14164,7 +14174,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 62.23 101.5999 0)
+			(at 62.23 99.0601 0)
 			(effects
 				(font
 					(size 1.27 1.27)

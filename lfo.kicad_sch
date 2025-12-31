@@ -1309,6 +1309,16 @@
 	)
 	(wire
 		(pts
+			(xy 167.64 60.96) (xy 158.75 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa412411-6edd-4bab-bbda-6e87147f8fa9")
+	)
+	(wire
+		(pts
 			(xy 100.33 57.15) (xy 102.87 57.15)
 		)
 		(stroke
@@ -1356,6 +1366,16 @@
 			(type default)
 		)
 		(uuid "c35eec8d-454f-4b2b-8610-1bb736de0fc8")
+	)
+	(wire
+		(pts
+			(xy 158.75 60.96) (xy 158.75 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c79be2e7-e1fb-4955-9ff5-4f5d7892429a")
 	)
 	(wire
 		(pts
@@ -1457,6 +1477,38 @@
 		)
 		(uuid "fca6842b-7269-449c-a72f-facbd35be4fe")
 	)
+	(label "LFO_OUT"
+		(at 167.64 57.15 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "87d936a2-18cb-4776-b049-c0d974281cbb")
+		(property "Netclass" "LFO_OUT"
+			(at 167.64 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
+	(hierarchical_label "LFO_OUT"
+		(shape output)
+		(at 167.64 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "01721062-e646-4669-b08c-2f868de2a540")
+	)
 	(hierarchical_label "-12V"
 		(shape input)
 		(at 34.29 59.69 180)
@@ -1489,17 +1541,6 @@
 			(justify right)
 		)
 		(uuid "9fe0b1bd-ccd7-4d00-9b94-efb7dcf94850")
-	)
-	(hierarchical_label "LFO_OUT"
-		(shape output)
-		(at 167.64 57.15 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f60088e3-e8be-43cc-8abc-d8f19244aa1d")
 	)
 	(symbol
 		(lib_id "power:GND")
