@@ -2031,14 +2031,6 @@
 		(uuid "1eec9023-82aa-4ecd-a6b3-2a205e59b22c")
 	)
 	(no_connect
-		(at 26.67 66.04)
-		(uuid "7eb73234-eaf8-4399-98e8-7f3b16c4c4c2")
-	)
-	(no_connect
-		(at 26.67 78.74)
-		(uuid "acd1d656-1ed1-4657-bbb2-9756675576c2")
-	)
-	(no_connect
 		(at 180.34 114.3)
 		(uuid "b4a2ec4e-b7b1-4ce7-9ded-7035d3968d1b")
 	)
@@ -2573,6 +2565,17 @@
 		)
 		(uuid "06b49aa0-4539-451a-b7f9-9d35fa69bbf8")
 	)
+	(hierarchical_label "+15V"
+		(shape input)
+		(at 26.67 63.5 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "172800d6-c208-4b4a-93ec-6c45d2b478b5")
+	)
 	(hierarchical_label "-12V"
 		(shape input)
 		(at 26.67 71.12 180)
@@ -2586,7 +2589,7 @@
 	)
 	(hierarchical_label "OUT"
 		(shape output)
-		(at 26.67 76.2 180)
+		(at 26.67 78.74 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2597,7 +2600,7 @@
 	)
 	(hierarchical_label "+12V"
 		(shape input)
-		(at 26.67 63.5 180)
+		(at 26.67 76.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2616,6 +2619,17 @@
 			(justify right)
 		)
 		(uuid "5f543b6e-4735-4988-821f-f5caba7c5ddd")
+	)
+	(hierarchical_label "GND"
+		(shape input)
+		(at 26.67 66.04 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "61400e3f-51e5-4d39-ba27-68fd21dd7904")
 	)
 	(hierarchical_label "OUT"
 		(shape output)
@@ -3860,7 +3874,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical"
 			(at 35.56 71.12 0)
 			(effects
 				(font
@@ -4250,7 +4264,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3339P_Vertical_HandSoldering"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Piher_PT-10-V10_Vertical"
 			(at 111.76 92.71 0)
 			(effects
 				(font

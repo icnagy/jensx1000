@@ -2410,13 +2410,13 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer")
-		(at 128.27 57.15 90)
+		(at 128.27 57.15 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b4ab36a7-17d4-4f7c-b950-88fdb7ac0160")
 		(property "Reference" "RV1"
 			(at 128.27 60.96 90)

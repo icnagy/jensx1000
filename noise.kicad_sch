@@ -4115,14 +4115,12 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer")
-		(at 101.6 130.81 270)
-		(mirror x)
+		(at 101.6 130.81 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7def1e28-eb14-48f0-aab3-e04cc73712f5")
 		(property "Reference" "RV25"
 			(at 101.6 134.62 90)
@@ -4626,14 +4624,16 @@
 	(symbol
 		(lib_id "Device:R_Potentiometer")
 		(at 196.85 104.14 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "aedb5382-86a8-488f-baf1-4e08cd11485e")
 		(property "Reference" "RV2"
-			(at 194.31 102.8699 0)
+			(at 194.31 101.5999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4642,7 +4642,7 @@
 			)
 		)
 		(property "Value" "100KA"
-			(at 194.31 105.4099 0)
+			(at 194.31 104.1399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4669,11 +4669,12 @@
 			)
 		)
 		(property "Description" "NOISE LEVEL"
-			(at 189.484 108.966 0)
+			(at 194.31 106.6799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(pin "1"

@@ -6153,13 +6153,13 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer")
-		(at 171.45 58.42 270)
+		(at 171.45 58.42 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6ab48bfe-5fef-4c6d-99a8-1cc558cb2708")
 		(property "Reference" "RV5"
 			(at 171.45 52.07 90)
