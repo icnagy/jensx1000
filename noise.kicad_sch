@@ -1089,6 +1089,113 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Mechanical:MountingHole_Pad"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole_Pad"
+				(at 0 4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole with connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*Pad*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_Pad_0_1"
+				(circle
+					(center 0 1.27)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MountingHole_Pad_1_1"
+				(pin input line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "PCM_Amplifier_Operational_AKL:LF351N"
 			(pin_names
 				(offset 0.2)
@@ -1795,6 +1902,12 @@
 		(uuid "1c60cb30-6f61-4f17-b779-7f218464499e")
 	)
 	(junction
+		(at 160.02 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "333a3eb3-611f-44b2-be50-81ec1a2fe830")
+	)
+	(junction
 		(at 101.6 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1843,6 +1956,12 @@
 		(uuid "874bb898-f1c0-4343-9511-c6af9ab00a95")
 	)
 	(junction
+		(at 161.29 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8a6a30f6-0ae3-437b-99a6-41f8b24c8099")
+	)
+	(junction
 		(at 153.67 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1873,6 +1992,12 @@
 		(uuid "ad07d936-7d75-4c44-ada9-e730b2858b9d")
 	)
 	(junction
+		(at 196.85 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cc5acebb-a39b-4002-b6f1-80bd214f5d45")
+	)
+	(junction
 		(at 132.08 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1899,6 +2024,16 @@
 			(type default)
 		)
 		(uuid "025ed3ec-ea05-4dbc-94db-6c8cd5d2c820")
+	)
+	(wire
+		(pts
+			(xy 160.02 87.63) (xy 165.1 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "074396ac-cf48-4da1-86ee-c39956e9136a")
 	)
 	(wire
 		(pts
@@ -2162,7 +2297,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 87.63) (xy 165.1 87.63)
+			(xy 153.67 87.63) (xy 160.02 87.63)
 		)
 		(stroke
 			(width 0)
@@ -2279,6 +2414,16 @@
 			(type default)
 		)
 		(uuid "7b61749a-a7cf-457e-ab1c-736469554455")
+	)
+	(wire
+		(pts
+			(xy 161.29 74.93) (xy 147.32 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7da803fa-0d1d-4d69-866f-af30eff004bb")
 	)
 	(wire
 		(pts
@@ -2572,7 +2717,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 74.93) (xy 147.32 74.93)
+			(xy 177.8 74.93) (xy 161.29 74.93)
 		)
 		(stroke
 			(width 0)
@@ -3347,6 +3492,73 @@
 			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/23ff179f-f3ca-4876-91dc-9a0adb7dbeaf"
 					(reference "CP12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 196.85 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "42cf45a7-20d5-4563-b445-65fa7e4ca196")
+		(property "Reference" "H3"
+			(at 199.39 82.5499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 199.39 85.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad"
+			(at 196.85 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 196.85 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 196.85 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a0ccf715-4e1c-4f12-aa90-58a51a72f052")
+		)
+		(instances
+			(project "jensx1000"
+				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/23ff179f-f3ca-4876-91dc-9a0adb7dbeaf"
+					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -5162,6 +5374,140 @@
 			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/23ff179f-f3ca-4876-91dc-9a0adb7dbeaf"
 					(reference "#PWR0146")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 160.02 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d836142f-94a0-4cc3-bc00-a5dc6c7cfcaa")
+		(property "Reference" "H2"
+			(at 162.56 82.5499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 162.56 85.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad"
+			(at 160.02 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 160.02 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 160.02 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "73141f6b-8174-433c-8a7c-25ee603d7944")
+		)
+		(instances
+			(project "jensx1000"
+				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/23ff179f-f3ca-4876-91dc-9a0adb7dbeaf"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 161.29 72.39 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d9e8d41d-3cc7-46e8-82e2-84d065ae7378")
+		(property "Reference" "H1"
+			(at 163.83 69.8499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 163.83 72.3899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad"
+			(at 161.29 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 161.29 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 161.29 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "60d7227c-24e4-4f8c-8e80-a686a66e26c1")
+		)
+		(instances
+			(project ""
+				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/23ff179f-f3ca-4876-91dc-9a0adb7dbeaf"
+					(reference "H1")
 					(unit 1)
 				)
 			)
