@@ -3042,42 +3042,6 @@
 		)
 	)
 	(rectangle
-		(start 133.35 40.64)
-		(end 138.43 55.88)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid 3fb0760d-f295-427c-838f-069c55316db9)
-	)
-	(rectangle
-		(start 264.16 66.04)
-		(end 279.4 71.12)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid 47230375-7a36-49f3-a7ff-99a823003636)
-	)
-	(rectangle
-		(start 149.86 40.64)
-		(end 152.4 52.07)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid d6f90799-13e4-46a9-81a8-8c02c0986f27)
-	)
-	(rectangle
 		(start 13.97 128.27)
 		(end 67.31 157.48)
 		(stroke
@@ -3098,16 +3062,6 @@
 			)
 		)
 		(uuid "14a8d769-31fe-4ad5-b196-849950658669")
-	)
-	(text "NOT ON ORIGINAL SCHEMATIC"
-		(exclude_from_sim no)
-		(at 274.066 64.77 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "4476d2d8-8625-4873-9d06-6c19ecc0d22c")
 	)
 	(text "FREQ. CAL."
 		(exclude_from_sim no)
@@ -3148,16 +3102,6 @@
 			)
 		)
 		(uuid "bfc979ef-4ed9-4b01-8deb-ac66cfaa5643")
-	)
-	(text "NOT ON ORIGINAL SCHEMATIC"
-		(exclude_from_sim no)
-		(at 136.144 32.004 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "dca06423-788b-4fef-a499-ccd729827949")
 	)
 	(text "FREQUENCY"
 		(exclude_from_sim no)
