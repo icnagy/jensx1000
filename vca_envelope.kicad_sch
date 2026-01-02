@@ -8454,7 +8454,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 191.77 105.41 0)
 			(effects
 				(font
@@ -8463,7 +8463,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 191.77 105.41 0)
 			(effects
 				(font
