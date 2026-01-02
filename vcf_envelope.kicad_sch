@@ -3534,12 +3534,6 @@
 		(uuid "269de83a-43b9-44ae-bf60-676fd92b8a87")
 	)
 	(junction
-		(at 176.53 140.97)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "419c8ac2-6a3a-46b5-b57f-f380af41a231")
-	)
-	(junction
 		(at 52.07 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3905,6 +3899,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 137.16) (xy 73.66 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45b4ba27-5ae7-4dd6-b0ac-88198e0e7045")
+	)
+	(wire
+		(pts
 			(xy 30.48 38.1) (xy 38.1 38.1)
 		)
 		(stroke
@@ -3992,6 +3996,16 @@
 			(type default)
 		)
 		(uuid "5fd2ae48-b76f-44ba-840e-f2010f51333e")
+	)
+	(wire
+		(pts
+			(xy 73.66 137.16) (xy 73.66 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62e9d858-d534-4585-be95-de8068ba6b4c")
 	)
 	(wire
 		(pts
@@ -4415,16 +4429,6 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 140.97) (xy 175.26 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bfa66a46-b8f2-4dcc-8a37-d742bcd6f793")
-	)
-	(wire
-		(pts
 			(xy 171.45 88.9) (xy 171.45 99.06)
 		)
 		(stroke
@@ -4565,16 +4569,6 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 137.16) (xy 73.66 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e2197d59-4edc-469e-a193-d91e1b47a5f9")
-	)
-	(wire
-		(pts
 			(xy 99.06 116.84) (xy 99.06 128.27)
 		)
 		(stroke
@@ -4643,16 +4637,6 @@
 		)
 		(uuid "fa0fb73d-13db-4d20-ad2f-f603ccd2c843")
 	)
-	(wire
-		(pts
-			(xy 73.66 137.16) (xy 73.66 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fdb65ba1-3154-4788-95a0-48b42f7aa654")
-	)
 	(label "TRIGGER"
 		(at 52.07 95.25 180)
 		(effects
@@ -4672,16 +4656,6 @@
 			(justify right bottom)
 		)
 		(uuid "8434ce15-6f8a-4e12-9796-9546aefff0dc")
-	)
-	(label "LFO_OUT"
-		(at 162.56 157.48 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "f2fefba6-bb0f-4871-83e5-25baff72d94d")
 	)
 	(hierarchical_label "VCF_ENV_OUT"
 		(shape output)
@@ -4716,17 +4690,6 @@
 		)
 		(uuid "40a52b55-9cf3-4c7d-834c-231b93aacc95")
 	)
-	(hierarchical_label "GATE"
-		(shape input)
-		(at 71.12 133.35 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "658703e7-9a33-4c3b-a180-533ff5e4166a")
-	)
 	(hierarchical_label "-12V"
 		(shape input)
 		(at 30.48 49.53 180)
@@ -4737,6 +4700,17 @@
 			(justify right)
 		)
 		(uuid "700d811c-0d1b-4015-bee5-981f50461cf4")
+	)
+	(hierarchical_label "GATE"
+		(shape input)
+		(at 71.12 133.35 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "747cb31c-6ea1-4335-8fd6-db0870013640")
 	)
 	(hierarchical_label "GND"
 		(shape input)
