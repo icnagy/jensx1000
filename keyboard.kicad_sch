@@ -5702,7 +5702,7 @@
 		(uuid "ff7dfe30-2661-4f03-a536-ceeb35a48dd8")
 	)
 	(label "~F6"
-		(at 209.55 49.53 0)
+		(at 196.85 49.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5712,7 +5712,7 @@
 		(uuid "0288c8a3-24c3-4551-81e4-19a6ed8abeb1")
 	)
 	(label "~F12"
-		(at 133.35 125.73 0)
+		(at 273.05 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5762,7 +5762,7 @@
 		(uuid "139df627-6f1d-44c7-8b29-4afe2b4bc0df")
 	)
 	(label "~F9"
-		(at 171.45 49.53 0)
+		(at 234.95 49.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5772,7 +5772,7 @@
 		(uuid "16b920e5-5938-4c97-b36c-5cc744989e65")
 	)
 	(label "~F7"
-		(at 196.85 49.53 0)
+		(at 209.55 49.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5782,7 +5782,7 @@
 		(uuid "1912acf1-7989-4198-997c-826a0488d157")
 	)
 	(label "~F1"
-		(at 273.05 49.53 0)
+		(at 133.35 49.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5802,7 +5802,7 @@
 		(uuid "274b8a53-b485-4c6c-ac8f-f5d05500894e")
 	)
 	(label "~F7"
-		(at 196.85 125.73 0)
+		(at 209.55 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5842,7 +5842,7 @@
 		(uuid "2fb48d35-b38a-4ace-bea6-104220927862")
 	)
 	(label "~F9"
-		(at 171.45 125.73 0)
+		(at 234.95 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5852,7 +5852,7 @@
 		(uuid "303a27d9-0d89-4fa5-bda0-6c62439271dc")
 	)
 	(label "~F12"
-		(at 133.35 87.63 0)
+		(at 273.05 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5862,7 +5862,7 @@
 		(uuid "3121e0b1-84a5-4232-8d84-700dd980ca24")
 	)
 	(label "~F6"
-		(at 209.55 87.63 0)
+		(at 196.85 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5922,7 +5922,7 @@
 		(uuid "49401a6b-3a9e-49ee-aa98-e4b090de78e4")
 	)
 	(label "~F8"
-		(at 184.15 125.73 0)
+		(at 222.25 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5952,7 +5952,7 @@
 		(uuid "51dffd27-e2c5-48fd-b151-f9dfcf24454f")
 	)
 	(label "~F3"
-		(at 247.65 125.73 0)
+		(at 158.75 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5962,7 +5962,7 @@
 		(uuid "52164e90-7085-4d59-8701-1c01a1cf1d32")
 	)
 	(label "~F1"
-		(at 273.05 125.73 0)
+		(at 133.35 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5982,7 +5982,7 @@
 		(uuid "5c75aefe-562c-45c7-aab7-a4a6a55fbf65")
 	)
 	(label "~F2"
-		(at 260.35 125.73 0)
+		(at 146.05 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5992,7 +5992,7 @@
 		(uuid "60686d8c-bcab-4b8d-b053-b9e89b3196ab")
 	)
 	(label "~F10"
-		(at 158.75 49.53 0)
+		(at 247.65 49.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6032,7 +6032,7 @@
 		(uuid "6b174180-64db-4f78-b8fc-dd32da82174f")
 	)
 	(label "~F11"
-		(at 146.05 125.73 0)
+		(at 260.35 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6062,7 +6062,7 @@
 		(uuid "76b11cf6-2380-45d1-8295-47b0da96db08")
 	)
 	(label "~F8"
-		(at 184.15 49.53 0)
+		(at 222.25 49.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6072,7 +6072,7 @@
 		(uuid "76cf6f88-d0ec-4a1b-b0b7-40f9947267f6")
 	)
 	(label "~F4"
-		(at 234.95 87.63 0)
+		(at 171.45 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6082,7 +6082,7 @@
 		(uuid "79c40ceb-74d4-4522-9e83-9546ed2a221f")
 	)
 	(label "~F5"
-		(at 222.25 49.53 0)
+		(at 184.15 49.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6092,7 +6092,7 @@
 		(uuid "7c22768b-7f9a-4279-8ca8-2a703895ed51")
 	)
 	(label "~F4"
-		(at 234.95 49.53 0)
+		(at 171.45 49.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6142,7 +6142,7 @@
 		(uuid "93217a63-768a-4ed6-bd1c-22be5ea9a9fa")
 	)
 	(label "~F4"
-		(at 234.95 125.73 0)
+		(at 171.45 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6162,7 +6162,7 @@
 		(uuid "9bd14bc2-9408-4fb2-b515-9b0374dbd856")
 	)
 	(label "~F11"
-		(at 146.05 49.53 0)
+		(at 260.35 49.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6182,7 +6182,7 @@
 		(uuid "9fd5afd8-823f-450c-86b5-b24d41ac6006")
 	)
 	(label "~F8"
-		(at 184.15 87.63 0)
+		(at 222.25 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6192,7 +6192,7 @@
 		(uuid "a08908f8-fbfa-4d53-98f4-dbffdbcecb6b")
 	)
 	(label "~F1"
-		(at 273.05 87.63 0)
+		(at 133.35 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6222,7 +6222,7 @@
 		(uuid "a80fd464-f331-4cce-b775-cb9d4898e05d")
 	)
 	(label "~F2"
-		(at 260.35 87.63 0)
+		(at 146.05 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6252,7 +6252,7 @@
 		(uuid "adfa8994-6b8e-49bc-95b7-e87f330ffa14")
 	)
 	(label "~F10"
-		(at 158.75 87.63 0)
+		(at 247.65 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6292,7 +6292,7 @@
 		(uuid "b693c61a-3fcf-47ee-8ea9-5aa0a4a402dd")
 	)
 	(label "~F2"
-		(at 260.35 49.53 0)
+		(at 146.05 49.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6312,7 +6312,7 @@
 		(uuid "b8a1764f-bc97-4ae7-90fe-90d592923bf8")
 	)
 	(label "~F7"
-		(at 196.85 87.63 0)
+		(at 209.55 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6322,7 +6322,7 @@
 		(uuid "b8a47a1f-619a-48cb-85b3-e39a09174c1d")
 	)
 	(label "~F9"
-		(at 171.45 87.63 0)
+		(at 234.95 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6332,7 +6332,7 @@
 		(uuid "b8f7284d-da2a-46e8-9304-756000e42347")
 	)
 	(label "~F3"
-		(at 247.65 49.53 0)
+		(at 158.75 49.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6352,7 +6352,7 @@
 		(uuid "c5924fad-7d1f-4a4e-89ed-94c467c64ca0")
 	)
 	(label "~F5"
-		(at 222.25 87.63 0)
+		(at 184.15 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6382,7 +6382,7 @@
 		(uuid "c94dc1f1-f40b-4f6e-bcf6-ce93f45d1864")
 	)
 	(label "~F12"
-		(at 133.35 49.53 0)
+		(at 273.05 49.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6392,7 +6392,7 @@
 		(uuid "d05afb2e-12a5-405d-82da-2644e0676423")
 	)
 	(label "~F6"
-		(at 209.55 125.73 0)
+		(at 196.85 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6402,7 +6402,7 @@
 		(uuid "d3f4985f-60bc-4310-9bb6-8c687f407fa3")
 	)
 	(label "~F11"
-		(at 146.05 87.63 0)
+		(at 260.35 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6422,7 +6422,7 @@
 		(uuid "dac4839d-06a1-47b3-bf6b-e748ce978b3a")
 	)
 	(label "~F10"
-		(at 158.75 125.73 0)
+		(at 247.65 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6482,7 +6482,7 @@
 		(uuid "f1845425-40e2-4329-82cb-ceb8d42bbaac")
 	)
 	(label "~F3"
-		(at 247.65 87.63 0)
+		(at 158.75 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6502,7 +6502,7 @@
 		(uuid "f2f18f4f-bee4-4e52-b8e6-524eda6ab400")
 	)
 	(label "~F5"
-		(at 222.25 125.73 0)
+		(at 184.15 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6850,7 +6850,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal"
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P17.78mm_D1.2mm"
 			(at 208.28 81.28 0)
 			(effects
 				(font
@@ -7005,7 +7005,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal"
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P25.40mm_D1.2mm"
 			(at 233.68 81.28 0)
 			(effects
 				(font
@@ -7545,7 +7545,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal"
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P20.32mm_D1.2mm"
 			(at 220.98 43.18 0)
 			(effects
 				(font
@@ -7633,7 +7633,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal"
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 246.38 119.38 0)
 			(effects
 				(font
@@ -7791,7 +7791,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal"
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P25.40mm_D1.2mm"
 			(at 246.38 81.28 0)
 			(effects
 				(font
@@ -8494,7 +8494,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal"
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P15.24mm_D1.2mm"
 			(at 195.58 119.38 0)
 			(effects
 				(font
@@ -8683,7 +8683,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal"
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 271.78 43.18 0)
 			(effects
 				(font
@@ -9276,7 +9276,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal"
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P25.40mm_D1.2mm"
 			(at 233.68 43.18 0)
 			(effects
 				(font
@@ -9569,7 +9569,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal"
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P20.32mm_D1.2mm"
 			(at 220.98 81.28 0)
 			(effects
 				(font
@@ -9815,7 +9815,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal"
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 259.08 119.38 0)
 			(effects
 				(font
@@ -10061,7 +10061,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal"
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P25.40mm_D1.2mm"
 			(at 208.28 119.38 0)
 			(effects
 				(font
@@ -10219,7 +10219,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal"
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 259.08 43.18 0)
 			(effects
 				(font
@@ -10676,7 +10676,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal"
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P17.78mm_D1.2mm"
 			(at 208.28 43.18 0)
 			(effects
 				(font
@@ -10834,7 +10834,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal"
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P15.24mm_D1.2mm"
 			(at 195.58 81.28 0)
 			(effects
 				(font
@@ -10922,7 +10922,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal"
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 271.78 119.38 0)
 			(effects
 				(font
@@ -11444,7 +11444,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal"
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P25.40mm_D1.2mm"
 			(at 220.98 119.38 0)
 			(effects
 				(font
@@ -12039,7 +12039,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal"
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 259.08 81.28 0)
 			(effects
 				(font
@@ -12267,7 +12267,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal"
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 233.68 119.38 0)
 			(effects
 				(font
@@ -12564,7 +12564,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal"
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P25.40mm_D1.2mm"
 			(at 246.38 43.18 0)
 			(effects
 				(font
@@ -13928,7 +13928,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal"
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P30.48mm_D1.2mm"
 			(at 271.78 81.28 0)
 			(effects
 				(font
@@ -14244,7 +14244,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal"
+		(property "Footprint" "PCM_Jumper_AKL:Jumper_P15.24mm_D1.2mm"
 			(at 195.58 43.18 0)
 			(effects
 				(font
