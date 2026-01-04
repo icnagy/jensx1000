@@ -4,6 +4,10 @@
 	(generator_version "9.0")
 	(uuid "18bb380c-be6e-45fe-a5cc-b714050fe3e9")
 	(paper "A3")
+	(title_block
+		(title "JEN SX-1000")
+		(comment 1 "SPDX-License-Identifier: CERN-OHL-S-2.0")
+	)
 	(lib_symbols
 		(symbol "4xxx:4013"
 			(pin_names
@@ -5140,6 +5144,18 @@
 		(uuid 2f18300b-72d4-47a9-88f7-76bb81fa2bee)
 	)
 	(rectangle
+		(start 124.46 184.15)
+		(end 146.05 201.93)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 47096676-0f62-48a1-95f0-b11fb1643673)
+	)
+	(rectangle
 		(start 194.31 60.96)
 		(end 407.67 151.13)
 		(stroke
@@ -5163,9 +5179,9 @@
 		)
 		(uuid c4633c2b-dffc-4ac2-b2c1-e3a04943562c)
 	)
-	(text "NOTE: Not on schematic"
+	(text "NOTE: Not on schematic, but\npresent on board"
 		(exclude_from_sim no)
-		(at 58.166 250.952 0)
+		(at 57.658 241.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5182,6 +5198,16 @@
 			)
 		)
 		(uuid "1cf2e197-4815-47fa-9b13-9781fe564f35")
+	)
+	(text "R76 and C30 are not present on PCB"
+		(exclude_from_sim no)
+		(at 148.336 179.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "24432f59-804c-4595-9ae2-c291c6eef134")
 	)
 	(text "TUNE"
 		(exclude_from_sim no)
@@ -5233,9 +5259,9 @@
 		)
 		(uuid "a0eff140-ac1d-4372-93ec-335e6825ec7f")
 	)
-	(text "NOTE: Not on schematic"
+	(text "NOTE: Not R110 on schematic, \nbut present on board"
 		(exclude_from_sim no)
-		(at 401.828 78.232 0)
+		(at 392.938 88.138 0)
 		(effects
 			(font
 				(size 1.27 1.27)

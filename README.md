@@ -1,6 +1,8 @@
-# Jen SX 1000 Clone
+# Jen SX-1000 Clone
 
-Jen SX 1000 Clone in KiCad
+Jen SX-1000 Clone
+By Csaba Nagy, 2026
+SPDX-License-Identifier: CERN-OHL-S-2.0
 
 STATUS: UNVERIFIED
 These schematics and PCB layouts have been recreated from original

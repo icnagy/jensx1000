@@ -4,6 +4,10 @@
 	(generator_version "9.0")
 	(uuid "3c53febc-5769-4c45-8f8f-0aba2c04e944")
 	(paper "A4")
+	(title_block
+		(title "JEN SX-1000")
+		(comment 1 "SPDX-License-Identifier: CERN-OHL-S-2.0")
+	)
 	(lib_symbols)
 	(junction
 		(at 124.46 27.94)
