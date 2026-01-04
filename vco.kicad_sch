@@ -10299,7 +10299,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14628491-b90c-43fd-8261-10f16a547819")
@@ -11260,7 +11260,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "2bf9cf34-6570-490d-946f-19ee44000891")
 		(property "Reference" "C30"
