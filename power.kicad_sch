@@ -2947,7 +2947,7 @@
 	)
 	(text "(315mA)"
 		(exclude_from_sim no)
-		(at 63.246 101.854 0)
+		(at 63.754 85.344 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3000,10 +3000,10 @@
 		(uuid "0dc07f9c-a6e8-4697-9e0a-c256f5a5451e")
 	)
 	(junction
-		(at 53.34 97.79)
+		(at 41.91 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "1538c3ba-c2e2-4ea4-b8ff-4e1bedbfa842")
+		(uuid "0ee55249-a819-438a-a484-518825377ba7")
 	)
 	(junction
 		(at 38.1 153.67)
@@ -3042,12 +3042,6 @@
 		(uuid "4d416fdc-8b8b-403a-a1d0-1d3230cc0377")
 	)
 	(junction
-		(at 46.99 78.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4f0277fe-6825-41d5-8aca-14dc43745663")
-	)
-	(junction
 		(at 118.11 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3058,6 +3052,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "62a6cb9d-de7d-4ea3-bc12-c43048748f7c")
+	)
+	(junction
+		(at 54.61 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "68e4d2a8-691d-43bf-886d-c047a7a49c43")
 	)
 	(junction
 		(at 38.1 163.83)
@@ -3082,12 +3082,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7c3d6701-cd99-4cd1-891c-7084335dbfed")
-	)
-	(junction
-		(at 54.61 78.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "855bf7dd-7866-43e7-9b22-b5bb626cd818")
 	)
 	(junction
 		(at 38.1 146.05)
@@ -3173,7 +3167,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 76.2) (xy 59.69 76.2)
+			(xy 54.61 76.2) (xy 90.17 76.2)
 		)
 		(stroke
 			(width 0)
@@ -3220,16 +3214,6 @@
 			(type default)
 		)
 		(uuid "19d1879d-b277-4819-b253-7cea5b20d2e9")
-	)
-	(wire
-		(pts
-			(xy 53.34 97.79) (xy 59.69 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d507823-468e-49ac-bcb3-569d9b43c50a")
 	)
 	(wire
 		(pts
@@ -3313,13 +3297,33 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 78.74) (xy 54.61 78.74)
+			(xy 41.91 93.98) (xy 41.91 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "31adebcf-ce68-4513-9f45-0b01ef8cde25")
+		(uuid "2df06afc-86fd-436c-891b-2d8ce39c4d9f")
+	)
+	(wire
+		(pts
+			(xy 54.61 97.79) (xy 90.17 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ee3f769-12d5-4520-a666-367ea0947838")
+	)
+	(wire
+		(pts
+			(xy 46.99 97.79) (xy 54.61 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "308302b6-33f5-41f3-be73-2809f89de73b")
 	)
 	(wire
 		(pts
@@ -3450,16 +3454,6 @@
 			(type default)
 		)
 		(uuid "4ec4038a-de37-4ec5-86e7-d5c4c1601afa")
-	)
-	(wire
-		(pts
-			(xy 67.31 76.2) (xy 90.17 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4f00e8cc-cfbd-4907-8af1-81c80573de34")
 	)
 	(wire
 		(pts
@@ -3603,16 +3597,6 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 78.74) (xy 54.61 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7c922e59-9fd1-4d7c-9e47-5a0a7d2dfd4f")
-	)
-	(wire
-		(pts
 			(xy 105.41 82.55) (xy 105.41 88.9)
 		)
 		(stroke
@@ -3650,6 +3634,16 @@
 			(type default)
 		)
 		(uuid "8854f173-0ab7-42a9-83b2-72e04dca61c8")
+	)
+	(wire
+		(pts
+			(xy 46.99 78.74) (xy 46.99 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d787818-01a9-4472-9076-4f7547ec9db7")
 	)
 	(wire
 		(pts
@@ -3760,6 +3754,16 @@
 			(type default)
 		)
 		(uuid "a2a12868-52f3-4019-96a9-fd31a1381814")
+	)
+	(wire
+		(pts
+			(xy 41.91 93.98) (xy 41.91 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a44d4dc5-2149-4be0-887b-fbebaa1e78eb")
 	)
 	(wire
 		(pts
@@ -3903,16 +3907,6 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 97.79) (xy 90.17 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c4b1a0a5-6caa-45f5-a55d-bc8dfc028eea")
-	)
-	(wire
-		(pts
 			(xy 38.1 153.67) (xy 38.1 151.13)
 		)
 		(stroke
@@ -3953,26 +3947,6 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 82.55) (xy 64.77 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d4379258-fcc2-4341-8497-1333db13e41b")
-	)
-	(wire
-		(pts
-			(xy 46.99 83.82) (xy 46.99 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d7a5b14c-fd6f-4685-8d1b-e15561c8a38c")
-	)
-	(wire
-		(pts
 			(xy 40.64 135.89) (xy 38.1 135.89)
 		)
 		(stroke
@@ -3990,16 +3964,6 @@
 			(type default)
 		)
 		(uuid "d90b604b-373a-4f42-8b4d-cfff4faf67d4")
-	)
-	(wire
-		(pts
-			(xy 41.91 97.79) (xy 41.91 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "db83ecba-70e2-495e-9510-99bd5373b7a0")
 	)
 	(wire
 		(pts
@@ -4090,16 +4054,6 @@
 			(type default)
 		)
 		(uuid "eed25b1b-60a8-46dc-9249-f736d04f0655")
-	)
-	(wire
-		(pts
-			(xy 53.34 97.79) (xy 41.91 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f09e8e9d-85ca-4d19-9291-086b431081ef")
 	)
 	(wire
 		(pts
@@ -4229,12 +4183,12 @@
 	)
 	(hierarchical_label "GND"
 		(shape output)
-		(at 64.77 82.55 0)
+		(at 41.91 86.36 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "a29c87c6-a974-4316-a9dc-c96136bb1735")
 	)
@@ -4343,7 +4297,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 46.99 83.82 0)
+		(at 41.91 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4351,7 +4305,7 @@
 		(dnp no)
 		(uuid "07546093-0514-430a-91dd-35d3e1d71f08")
 		(property "Reference" "#PWR013"
-			(at 46.99 90.17 0)
+			(at 41.91 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4360,7 +4314,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 46.99 88.9 0)
+			(at 41.91 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4368,7 +4322,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 46.99 83.82 0)
+			(at 41.91 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4377,7 +4331,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 46.99 83.82 0)
+			(at 41.91 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4386,7 +4340,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 46.99 83.82 0)
+			(at 41.91 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4484,7 +4438,7 @@
 			(uuid "9e4ab286-8e90-4b53-b593-232407e65fe0")
 		)
 		(instances
-			(project ""
+			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/81196ff1-72f4-4837-a9ee-dcf6bf8406d5"
 					(reference "D1")
 					(unit 1)
@@ -4494,7 +4448,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 53.34 97.79 0)
+		(at 41.91 93.98 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4503,7 +4457,7 @@
 		(fields_autoplaced yes)
 		(uuid "182a7de3-b5ba-4103-ac45-0efbc411c75e")
 		(property "Reference" "#FLG02"
-			(at 53.34 95.885 0)
+			(at 40.005 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4512,15 +4466,16 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 53.34 92.71 0)
+			(at 38.1 93.9799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 53.34 97.79 0)
+			(at 41.91 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4529,7 +4484,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 53.34 97.79 0)
+			(at 41.91 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4538,7 +4493,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 53.34 97.79 0)
+			(at 41.91 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4620,7 +4575,7 @@
 			(uuid "249a7e4a-152b-48aa-9a9a-0bfd3e529387")
 		)
 		(instances
-			(project ""
+			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/81196ff1-72f4-4837-a9ee-dcf6bf8406d5"
 					(reference "C1")
 					(unit 1)
@@ -4686,7 +4641,7 @@
 			(uuid "b8448d82-671e-41c6-b49e-218978c8f111")
 		)
 		(instances
-			(project ""
+			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/81196ff1-72f4-4837-a9ee-dcf6bf8406d5"
 					(reference "#PWR010")
 					(unit 1)
@@ -4822,7 +4777,7 @@
 			(uuid "bb7b91bb-9bb2-48c8-bdd2-71b6bf77a38e")
 		)
 		(instances
-			(project ""
+			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/81196ff1-72f4-4837-a9ee-dcf6bf8406d5"
 					(reference "#PWR011")
 					(unit 1)
@@ -4895,7 +4850,7 @@
 			(uuid "e7d93b74-f217-4c2d-bce3-8d7e52d150ac")
 		)
 		(instances
-			(project ""
+			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/81196ff1-72f4-4837-a9ee-dcf6bf8406d5"
 					(reference "U3")
 					(unit 1)
@@ -5034,7 +4989,7 @@
 			(uuid "03432c38-927c-4076-803f-78b35bb00fe8")
 		)
 		(instances
-			(project ""
+			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/81196ff1-72f4-4837-a9ee-dcf6bf8406d5"
 					(reference "U2")
 					(unit 1)
@@ -5120,7 +5075,7 @@
 			(uuid "d16d3283-8ce7-4290-b8a2-256b1dd882f3")
 		)
 		(instances
-			(project ""
+			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/81196ff1-72f4-4837-a9ee-dcf6bf8406d5"
 					(reference "D3")
 					(unit 1)
@@ -5186,7 +5141,7 @@
 			(uuid "8dc1e25b-d309-48e7-b88b-6f033e497211")
 		)
 		(instances
-			(project ""
+			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/81196ff1-72f4-4837-a9ee-dcf6bf8406d5"
 					(reference "#PWR012")
 					(unit 1)
@@ -5252,7 +5207,7 @@
 			(uuid "8c9e907f-9c84-4eed-812e-36f2aa6479b7")
 		)
 		(instances
-			(project ""
+			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/81196ff1-72f4-4837-a9ee-dcf6bf8406d5"
 					(reference "#PWR01")
 					(unit 1)
@@ -5389,7 +5344,7 @@
 			(uuid "92a6a1bc-f713-459d-a271-9d509725f889")
 		)
 		(instances
-			(project ""
+			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/81196ff1-72f4-4837-a9ee-dcf6bf8406d5"
 					(reference "J1")
 					(unit 1)
@@ -5455,7 +5410,7 @@
 			(uuid "1541d8f8-44b0-4261-9fa8-9942790b0ed5")
 		)
 		(instances
-			(project ""
+			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/81196ff1-72f4-4837-a9ee-dcf6bf8406d5"
 					(reference "#FLG01")
 					(unit 1)
@@ -5465,7 +5420,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 54.61 78.74 180)
+		(at 54.61 97.79 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5474,7 +5429,7 @@
 		(fields_autoplaced yes)
 		(uuid "6657a00d-1148-4034-8a0f-34f45cf8edc0")
 		(property "Reference" "#FLG03"
-			(at 54.61 80.645 0)
+			(at 54.61 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5483,7 +5438,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 54.61 83.82 0)
+			(at 54.61 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5491,7 +5446,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.61 78.74 0)
+			(at 54.61 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5500,7 +5455,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 54.61 78.74 0)
+			(at 54.61 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5509,7 +5464,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 54.61 78.74 0)
+			(at 54.61 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5597,16 +5552,16 @@
 	)
 	(symbol
 		(lib_id "Device:Fuse")
-		(at 63.5 76.2 90)
+		(at 63.5 73.66 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "7a578865-c209-42a6-a457-fa54b6b804e5")
 		(property "Reference" "F1"
-			(at 63.5 69.85 90)
+			(at 63.5 67.31 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5614,7 +5569,7 @@
 			)
 		)
 		(property "Value" "Fuse"
-			(at 63.5 72.39 90)
+			(at 63.5 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5622,7 +5577,7 @@
 			)
 		)
 		(property "Footprint" "Fuse:Fuseholder_Clip-5x20mm_Keystone_3512_Inline_P23.62x7.27mm_D1.02x1.57mm_Horizontal"
-			(at 63.5 77.978 90)
+			(at 63.5 75.438 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5631,7 +5586,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 76.2 0)
+			(at 63.5 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5640,7 +5595,7 @@
 			)
 		)
 		(property "Description" "Fuse"
-			(at 63.5 76.2 0)
+			(at 63.5 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5655,7 +5610,7 @@
 			(uuid "3b610aca-54bf-4be2-b578-a84768cb490a")
 		)
 		(instances
-			(project ""
+			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/81196ff1-72f4-4837-a9ee-dcf6bf8406d5"
 					(reference "F1")
 					(unit 1)
@@ -5873,7 +5828,7 @@
 			(uuid "e0006027-eb9f-4390-b814-7feb8b6811be")
 		)
 		(instances
-			(project ""
+			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/81196ff1-72f4-4837-a9ee-dcf6bf8406d5"
 					(reference "D4")
 					(unit 1)
@@ -6009,7 +5964,7 @@
 			(uuid "682f4fb4-2d32-4563-b3f2-6995cbcd2793")
 		)
 		(instances
-			(project ""
+			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/81196ff1-72f4-4837-a9ee-dcf6bf8406d5"
 					(reference "CP4")
 					(unit 1)
@@ -6019,16 +5974,16 @@
 	)
 	(symbol
 		(lib_id "Device:Fuse")
-		(at 63.5 97.79 90)
+		(at 63.5 93.98 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "aa2288d8-8cde-4a38-a016-86cbdebfb454")
 		(property "Reference" "F2"
-			(at 63.5 91.44 90)
+			(at 63.5 87.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6036,7 +5991,7 @@
 			)
 		)
 		(property "Value" "Fuse"
-			(at 63.5 93.98 90)
+			(at 63.5 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6044,7 +5999,7 @@
 			)
 		)
 		(property "Footprint" "Fuse:Fuseholder_Clip-5x20mm_Keystone_3512_Inline_P23.62x7.27mm_D1.02x1.57mm_Horizontal"
-			(at 63.5 99.568 90)
+			(at 63.5 95.758 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6053,7 +6008,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 97.79 0)
+			(at 63.5 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6062,7 +6017,7 @@
 			)
 		)
 		(property "Description" "Fuse"
-			(at 63.5 97.79 0)
+			(at 63.5 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6077,7 +6032,7 @@
 			(uuid "ee0bcf0c-9865-4574-ba51-77d425e8ca04")
 		)
 		(instances
-			(project ""
+			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/81196ff1-72f4-4837-a9ee-dcf6bf8406d5"
 					(reference "F2")
 					(unit 1)
@@ -6211,7 +6166,7 @@
 			(uuid "4567aee4-b77f-40ab-a99b-5ac7c9312b85")
 		)
 		(instances
-			(project ""
+			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/81196ff1-72f4-4837-a9ee-dcf6bf8406d5"
 					(reference "J8")
 					(unit 1)
@@ -6277,7 +6232,7 @@
 			(uuid "b5e55e2d-a6ee-402d-b53e-75cd5c8f4209")
 		)
 		(instances
-			(project ""
+			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/81196ff1-72f4-4837-a9ee-dcf6bf8406d5"
 					(reference "#PWR09")
 					(unit 1)
@@ -6499,7 +6454,7 @@
 			(uuid "5fdbdec1-cd61-4610-a892-5e54d50286a2")
 		)
 		(instances
-			(project ""
+			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/81196ff1-72f4-4837-a9ee-dcf6bf8406d5"
 					(reference "D2")
 					(unit 1)
@@ -6703,7 +6658,7 @@
 			(uuid "e0b59fc5-0e29-4262-aae4-9271f65be045")
 		)
 		(instances
-			(project ""
+			(project "jensx1000"
 				(path "/3c53febc-5769-4c45-8f8f-0aba2c04e944/81196ff1-72f4-4837-a9ee-dcf6bf8406d5"
 					(reference "U1")
 					(unit 1)
